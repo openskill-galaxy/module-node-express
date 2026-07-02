@@ -1,0 +1,41 @@
+{
+  "id": "mod-node-express",
+  "slug": "module-node-express",
+  "title": "Node.js 与 Express 后端开发",
+  "subtitle": "面向全栈开发入门者",
+  "description": "面向JavaScriptTypeScript学习者和全栈开发入门者系统学习Node.js运行时npm模块系统异步编程HTTPExpressREST API中间件JWT数据库连接ORM接口测试日志部署和后端项目实战的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Node.js",
+    "Express",
+    "后端开发",
+    "REST API",
+    "JWT",
+    "npm",
+    "异步编程",
+    "全栈开发"
+  ],
+  "estimatedHours": 170,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🚀",
+  "repoUrl": "https://github.com/openskill-galaxy/module-node-express",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 61,
+    "knowledgePoints": 730,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 36,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 465
+  }
+}

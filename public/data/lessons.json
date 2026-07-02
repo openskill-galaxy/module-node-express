@@ -1,0 +1,3917 @@
+[
+  {
+    "id": "nd-lesson-001",
+    "courseId": "nd-course-01",
+    "order": 1,
+    "title": "Node概述",
+    "slug": "Node概述",
+    "summary": "Node概述",
+    "content": "# Node概述\n\nNode概述内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-001"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-002",
+    "courseId": "nd-course-01",
+    "order": 2,
+    "title": "运行时与V8",
+    "slug": "运行时与V8",
+    "summary": "运行时与V8",
+    "content": "# 运行时与V8\n\n运行时与V8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-002"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-003",
+    "courseId": "nd-course-01",
+    "order": 3,
+    "title": "Node学习路线",
+    "slug": "Node学习路线",
+    "summary": "Node学习路线",
+    "content": "# Node学习路线\n\nNode学习路线内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-003"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-004",
+    "courseId": "nd-course-02",
+    "order": 1,
+    "title": "npm包管理",
+    "slug": "npm包管理",
+    "summary": "npm包管理",
+    "content": "# npm包管理\n\nnpm包管理内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-004"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-005",
+    "courseId": "nd-course-02",
+    "order": 2,
+    "title": "package.json",
+    "slug": "package.json",
+    "summary": "package.json",
+    "content": "# package.json\n\npackage.json内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-005"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-006",
+    "courseId": "nd-course-02",
+    "order": 3,
+    "title": "scripts",
+    "slug": "scripts",
+    "summary": "scripts",
+    "content": "# scripts\n\nscripts内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-006"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-007",
+    "courseId": "nd-course-02",
+    "order": 4,
+    "title": "npx",
+    "slug": "npx",
+    "summary": "npx",
+    "content": "# npx\n\nnpx内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-007"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-008",
+    "courseId": "nd-course-03",
+    "order": 1,
+    "title": "require",
+    "slug": "require",
+    "summary": "require",
+    "content": "# require\n\nrequire内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-008"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-009",
+    "courseId": "nd-course-03",
+    "order": 2,
+    "title": "module.exports",
+    "slug": "module.exports",
+    "summary": "module.exports",
+    "content": "# module.exports\n\nmodule.exports内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-009"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-010",
+    "courseId": "nd-course-03",
+    "order": 3,
+    "title": "import/export",
+    "slug": "import/export",
+    "summary": "import/export",
+    "content": "# import/export\n\nimport/export内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-010"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-011",
+    "courseId": "nd-course-03",
+    "order": 4,
+    "title": "ESM与CommonJS",
+    "slug": "ESM与CommonJS",
+    "summary": "ESM与CommonJS",
+    "content": "# ESM与CommonJS\n\nESM与CommonJS内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-011"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-012",
+    "courseId": "nd-course-04",
+    "order": 1,
+    "title": "回调函数",
+    "slug": "回调函数",
+    "summary": "回调函数",
+    "content": "# 回调函数\n\n回调函数内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-012"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-013",
+    "courseId": "nd-course-04",
+    "order": 2,
+    "title": "Promise",
+    "slug": "Promise",
+    "summary": "Promise",
+    "content": "# Promise\n\nPromise内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-013",
+      "nd-kp-014"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-014",
+    "courseId": "nd-course-04",
+    "order": 3,
+    "title": "async/await",
+    "slug": "async/await",
+    "summary": "async/await",
+    "content": "# async/await\n\nasync/await内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-015",
+      "nd-kp-016"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-015",
+    "courseId": "nd-course-04",
+    "order": 4,
+    "title": "事件循环",
+    "slug": "事件循环",
+    "summary": "事件循环",
+    "content": "# 事件循环\n\n事件循环内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-017"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-016",
+    "courseId": "nd-course-05",
+    "order": 1,
+    "title": "fs模块",
+    "slug": "fs模块",
+    "summary": "fs模块",
+    "content": "# fs模块\n\nfs模块内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-018",
+      "nd-kp-019"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-017",
+    "courseId": "nd-course-05",
+    "order": 2,
+    "title": "path模块",
+    "slug": "path模块",
+    "summary": "path模块",
+    "content": "# path模块\n\npath模块内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-020"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-018",
+    "courseId": "nd-course-05",
+    "order": 3,
+    "title": "process全局",
+    "slug": "process全局",
+    "summary": "process全局",
+    "content": "# process全局\n\nprocess全局内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-021"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-019",
+    "courseId": "nd-course-05",
+    "order": 4,
+    "title": "dotenv配置",
+    "slug": "dotenv配置",
+    "summary": "dotenv配置",
+    "content": "# dotenv配置\n\ndotenv配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-022"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-020",
+    "courseId": "nd-course-05",
+    "order": 5,
+    "title": "环境变量",
+    "slug": "环境变量",
+    "summary": "环境变量",
+    "content": "# 环境变量\n\n环境变量内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-023"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-021",
+    "courseId": "nd-course-06",
+    "order": 1,
+    "title": "http.createServer",
+    "slug": "http.createServer",
+    "summary": "http.createServer",
+    "content": "# http.createServer\n\nhttp.createServer内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-024"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-022",
+    "courseId": "nd-course-06",
+    "order": 2,
+    "title": "req/res对象",
+    "slug": "req/res对象",
+    "summary": "req/res对象",
+    "content": "# req/res对象\n\nreq/res对象内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-025"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-023",
+    "courseId": "nd-course-06",
+    "order": 3,
+    "title": "路由实现",
+    "slug": "路由实现",
+    "summary": "路由实现",
+    "content": "# 路由实现\n\n路由实现内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-026"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-024",
+    "courseId": "nd-course-06",
+    "order": 4,
+    "title": "JSON响应",
+    "slug": "JSON响应",
+    "summary": "JSON响应",
+    "content": "# JSON响应\n\nJSON响应内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-027"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-025",
+    "courseId": "nd-course-07",
+    "order": 1,
+    "title": "Express安装",
+    "slug": "Express安装",
+    "summary": "Express安装",
+    "content": "# Express安装\n\nExpress安装内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-028"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-026",
+    "courseId": "nd-course-07",
+    "order": 2,
+    "title": "app.get/post",
+    "slug": "app.get/post",
+    "summary": "app.get/post",
+    "content": "# app.get/post\n\napp.get/post内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-029"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-027",
+    "courseId": "nd-course-07",
+    "order": 3,
+    "title": "Router模块化",
+    "slug": "Router模块化",
+    "summary": "Router模块化",
+    "content": "# Router模块化\n\nRouter模块化内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-030",
+      "nd-kp-031"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-028",
+    "courseId": "nd-course-07",
+    "order": 4,
+    "title": "app.use",
+    "slug": "app.use",
+    "summary": "app.use",
+    "content": "# app.use\n\napp.use内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-032"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-029",
+    "courseId": "nd-course-08",
+    "order": 1,
+    "title": "req.params",
+    "slug": "req.params",
+    "summary": "req.params",
+    "content": "# req.params\n\nreq.params内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-033"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-030",
+    "courseId": "nd-course-08",
+    "order": 2,
+    "title": "req.query",
+    "slug": "req.query",
+    "summary": "req.query",
+    "content": "# req.query\n\nreq.query内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-034"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-031",
+    "courseId": "nd-course-08",
+    "order": 3,
+    "title": "req.body",
+    "slug": "req.body",
+    "summary": "req.body",
+    "content": "# req.body\n\nreq.body内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-035"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-032",
+    "courseId": "nd-course-08",
+    "order": 4,
+    "title": "res.json",
+    "slug": "res.json",
+    "summary": "res.json",
+    "content": "# res.json\n\nres.json内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-036"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-033",
+    "courseId": "nd-course-08",
+    "order": 5,
+    "title": "RESTful设计",
+    "slug": "RESTful设计",
+    "summary": "RESTful设计",
+    "content": "# RESTful设计\n\nRESTful设计内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-037"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-034",
+    "courseId": "nd-course-09",
+    "order": 1,
+    "title": "中间件概念",
+    "slug": "中间件概念",
+    "summary": "中间件概念",
+    "content": "# 中间件概念\n\n中间件概念内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-038",
+      "nd-kp-039"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-035",
+    "courseId": "nd-course-09",
+    "order": 2,
+    "title": "应用级中间件",
+    "slug": "应用级中间件",
+    "summary": "应用级中间件",
+    "content": "# 应用级中间件\n\n应用级中间件内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-040"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-036",
+    "courseId": "nd-course-09",
+    "order": 3,
+    "title": "错误中间件",
+    "slug": "错误中间件",
+    "summary": "错误中间件",
+    "content": "# 错误中间件\n\n错误中间件内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-041",
+      "nd-kp-042"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-037",
+    "courseId": "nd-course-09",
+    "order": 4,
+    "title": "cors/helmet",
+    "slug": "cors/helmet",
+    "summary": "cors/helmet",
+    "content": "# cors/helmet\n\ncors/helmet内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-043"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-038",
+    "courseId": "nd-course-09",
+    "order": 5,
+    "title": "morgan日志",
+    "slug": "morgan日志",
+    "summary": "morgan日志",
+    "content": "# morgan日志\n\nmorgan日志内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-044"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-039",
+    "courseId": "nd-course-10",
+    "order": 1,
+    "title": "Prisma入门",
+    "slug": "Prisma入门",
+    "summary": "Prisma入门",
+    "content": "# Prisma入门\n\nPrisma入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-045",
+      "nd-kp-046"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-040",
+    "courseId": "nd-course-10",
+    "order": 2,
+    "title": "Mongoose入门",
+    "slug": "Mongoose入门",
+    "summary": "Mongoose入门",
+    "content": "# Mongoose入门\n\nMongoose入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-047"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-041",
+    "courseId": "nd-course-10",
+    "order": 3,
+    "title": "CRUD操作",
+    "slug": "CRUD操作",
+    "summary": "CRUD操作",
+    "content": "# CRUD操作\n\nCRUD操作内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-048",
+      "nd-kp-049"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-042",
+    "courseId": "nd-course-10",
+    "order": 4,
+    "title": "分页查询",
+    "slug": "分页查询",
+    "summary": "分页查询",
+    "content": "# 分页查询\n\n分页查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-050"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-043",
+    "courseId": "nd-course-10",
+    "order": 5,
+    "title": "数据校验",
+    "slug": "数据校验",
+    "summary": "数据校验",
+    "content": "# 数据校验\n\n数据校验内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-051"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-044",
+    "courseId": "nd-course-11",
+    "order": 1,
+    "title": "JWT生成",
+    "slug": "JWT生成",
+    "summary": "JWT生成",
+    "content": "# JWT生成\n\nJWT生成内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-052",
+      "nd-kp-053"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-045",
+    "courseId": "nd-course-11",
+    "order": 2,
+    "title": "JWT验证",
+    "slug": "JWT验证",
+    "summary": "JWT验证",
+    "content": "# JWT验证\n\nJWT验证内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-054"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-046",
+    "courseId": "nd-course-11",
+    "order": 3,
+    "title": "bcrypt密码",
+    "slug": "bcrypt密码",
+    "summary": "bcrypt密码",
+    "content": "# bcrypt密码\n\nbcrypt密码内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-055"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-047",
+    "courseId": "nd-course-11",
+    "order": 4,
+    "title": "鉴权中间件",
+    "slug": "鉴权中间件",
+    "summary": "鉴权中间件",
+    "content": "# 鉴权中间件\n\n鉴权中间件内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-056"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-048",
+    "courseId": "nd-course-11",
+    "order": 5,
+    "title": "登录接口",
+    "slug": "登录接口",
+    "summary": "登录接口",
+    "content": "# 登录接口\n\n登录接口内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-057"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-049",
+    "courseId": "nd-course-12",
+    "order": 1,
+    "title": "Jest测试",
+    "slug": "Jest测试",
+    "summary": "Jest测试",
+    "content": "# Jest测试\n\nJest测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-058"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-050",
+    "courseId": "nd-course-12",
+    "order": 2,
+    "title": "Supertest",
+    "slug": "Supertest",
+    "summary": "Supertest",
+    "content": "# Supertest\n\nSupertest内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-059"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-051",
+    "courseId": "nd-course-12",
+    "order": 3,
+    "title": "Winston日志",
+    "slug": "Winston日志",
+    "summary": "Winston日志",
+    "content": "# Winston日志\n\nWinston日志内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-060"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-052",
+    "courseId": "nd-course-12",
+    "order": 4,
+    "title": "多环境配置",
+    "slug": "多环境配置",
+    "summary": "多环境配置",
+    "content": "# 多环境配置\n\n多环境配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-061"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-053",
+    "courseId": "nd-course-13",
+    "order": 1,
+    "title": "用户API",
+    "slug": "用户API",
+    "summary": "用户API",
+    "content": "# 用户API\n\n用户API内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-062"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-054",
+    "courseId": "nd-course-13",
+    "order": 2,
+    "title": "Todo API",
+    "slug": "Todo-API",
+    "summary": "Todo API",
+    "content": "# Todo API\n\nTodo API内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-063"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-055",
+    "courseId": "nd-course-13",
+    "order": 3,
+    "title": "博客API",
+    "slug": "博客API",
+    "summary": "博客API",
+    "content": "# 博客API\n\n博客API内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-064"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-056",
+    "courseId": "nd-course-13",
+    "order": 4,
+    "title": "文件上传",
+    "slug": "文件上传",
+    "summary": "文件上传",
+    "content": "# 文件上传\n\n文件上传内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-065"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-057",
+    "courseId": "nd-course-14",
+    "order": 1,
+    "title": "Docker部署",
+    "slug": "Docker部署",
+    "summary": "Docker部署",
+    "content": "# Docker部署\n\nDocker部署内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-066"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-058",
+    "courseId": "nd-course-14",
+    "order": 2,
+    "title": "CI/CD",
+    "slug": "CI/CD",
+    "summary": "CI/CD",
+    "content": "# CI/CD\n\nCI/CD内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-067"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-059",
+    "courseId": "nd-course-14",
+    "order": 3,
+    "title": "Node面试题",
+    "slug": "Node面试题",
+    "summary": "Node面试题",
+    "content": "# Node面试题\n\nNode面试题内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "nd-kp-068"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-060",
+    "courseId": "nd-course-14",
+    "order": 4,
+    "title": "模拟测试",
+    "slug": "模拟测试",
+    "summary": "模拟测试",
+    "content": "# 模拟测试\n\n模拟测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "nd-kp-069"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-061",
+    "courseId": "nd-course-14",
+    "order": 5,
+    "title": "考前冲刺",
+    "slug": "考前冲刺",
+    "summary": "考前冲刺",
+    "content": "# 考前冲刺\n\n考前冲刺内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "nd-kp-070"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-062",
+    "courseId": "nd-course-01",
+    "order": 4,
+    "title": "补1",
+    "slug": "补1",
+    "summary": "补1",
+    "content": "#补1\n\n补1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0062"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-063",
+    "courseId": "nd-course-02",
+    "order": 5,
+    "title": "补2",
+    "slug": "补2",
+    "summary": "补2",
+    "content": "#补2\n\n补2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0063"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-064",
+    "courseId": "nd-course-03",
+    "order": 5,
+    "title": "补3",
+    "slug": "补3",
+    "summary": "补3",
+    "content": "#补3\n\n补3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0064"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-065",
+    "courseId": "nd-course-04",
+    "order": 5,
+    "title": "补4",
+    "slug": "补4",
+    "summary": "补4",
+    "content": "#补4\n\n补4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0065"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-066",
+    "courseId": "nd-course-05",
+    "order": 6,
+    "title": "补5",
+    "slug": "补5",
+    "summary": "补5",
+    "content": "#补5\n\n补5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0066"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-067",
+    "courseId": "nd-course-06",
+    "order": 5,
+    "title": "补6",
+    "slug": "补6",
+    "summary": "补6",
+    "content": "#补6\n\n补6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0067"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-068",
+    "courseId": "nd-course-07",
+    "order": 5,
+    "title": "补7",
+    "slug": "补7",
+    "summary": "补7",
+    "content": "#补7\n\n补7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0068"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-069",
+    "courseId": "nd-course-08",
+    "order": 6,
+    "title": "补8",
+    "slug": "补8",
+    "summary": "补8",
+    "content": "#补8\n\n补8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0069"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-070",
+    "courseId": "nd-course-09",
+    "order": 6,
+    "title": "补9",
+    "slug": "补9",
+    "summary": "补9",
+    "content": "#补9\n\n补9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0070"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-071",
+    "courseId": "nd-course-10",
+    "order": 6,
+    "title": "补10",
+    "slug": "补10",
+    "summary": "补10",
+    "content": "#补10\n\n补10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0071"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-072",
+    "courseId": "nd-course-11",
+    "order": 6,
+    "title": "补11",
+    "slug": "补11",
+    "summary": "补11",
+    "content": "#补11\n\n补11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0072"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-073",
+    "courseId": "nd-course-12",
+    "order": 5,
+    "title": "补12",
+    "slug": "补12",
+    "summary": "补12",
+    "content": "#补12\n\n补12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0073"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-074",
+    "courseId": "nd-course-13",
+    "order": 5,
+    "title": "补13",
+    "slug": "补13",
+    "summary": "补13",
+    "content": "#补13\n\n补13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0074"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-075",
+    "courseId": "nd-course-14",
+    "order": 6,
+    "title": "补14",
+    "slug": "补14",
+    "summary": "补14",
+    "content": "#补14\n\n补14内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0075"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-076",
+    "courseId": "nd-course-01",
+    "order": 5,
+    "title": "补15",
+    "slug": "补15",
+    "summary": "补15",
+    "content": "#补15\n\n补15内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0076"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-077",
+    "courseId": "nd-course-02",
+    "order": 6,
+    "title": "补16",
+    "slug": "补16",
+    "summary": "补16",
+    "content": "#补16\n\n补16内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0077"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-078",
+    "courseId": "nd-course-03",
+    "order": 6,
+    "title": "补17",
+    "slug": "补17",
+    "summary": "补17",
+    "content": "#补17\n\n补17内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0078"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-079",
+    "courseId": "nd-course-04",
+    "order": 6,
+    "title": "补18",
+    "slug": "补18",
+    "summary": "补18",
+    "content": "#补18\n\n补18内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0079"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-080",
+    "courseId": "nd-course-05",
+    "order": 7,
+    "title": "补19",
+    "slug": "补19",
+    "summary": "补19",
+    "content": "#补19\n\n补19内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0080"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-081",
+    "courseId": "nd-course-06",
+    "order": 6,
+    "title": "补20",
+    "slug": "补20",
+    "summary": "补20",
+    "content": "#补20\n\n补20内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0081"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-082",
+    "courseId": "nd-course-07",
+    "order": 6,
+    "title": "补21",
+    "slug": "补21",
+    "summary": "补21",
+    "content": "#补21\n\n补21内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0082"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-083",
+    "courseId": "nd-course-08",
+    "order": 7,
+    "title": "补22",
+    "slug": "补22",
+    "summary": "补22",
+    "content": "#补22\n\n补22内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0083"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-084",
+    "courseId": "nd-course-09",
+    "order": 7,
+    "title": "补23",
+    "slug": "补23",
+    "summary": "补23",
+    "content": "#补23\n\n补23内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0084"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-085",
+    "courseId": "nd-course-10",
+    "order": 7,
+    "title": "补24",
+    "slug": "补24",
+    "summary": "补24",
+    "content": "#补24\n\n补24内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0085"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-086",
+    "courseId": "nd-course-11",
+    "order": 7,
+    "title": "补25",
+    "slug": "补25",
+    "summary": "补25",
+    "content": "#补25\n\n补25内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0086"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-087",
+    "courseId": "nd-course-12",
+    "order": 6,
+    "title": "补26",
+    "slug": "补26",
+    "summary": "补26",
+    "content": "#补26\n\n补26内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0087"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-088",
+    "courseId": "nd-course-13",
+    "order": 6,
+    "title": "补27",
+    "slug": "补27",
+    "summary": "补27",
+    "content": "#补27\n\n补27内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0088"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-089",
+    "courseId": "nd-course-14",
+    "order": 7,
+    "title": "补28",
+    "slug": "补28",
+    "summary": "补28",
+    "content": "#补28\n\n补28内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0089"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-090",
+    "courseId": "nd-course-01",
+    "order": 6,
+    "title": "补29",
+    "slug": "补29",
+    "summary": "补29",
+    "content": "#补29\n\n补29内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0090"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-091",
+    "courseId": "nd-course-02",
+    "order": 7,
+    "title": "补30",
+    "slug": "补30",
+    "summary": "补30",
+    "content": "#补30\n\n补30内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0091"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-092",
+    "courseId": "nd-course-03",
+    "order": 7,
+    "title": "补31",
+    "slug": "补31",
+    "summary": "补31",
+    "content": "#补31\n\n补31内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0092"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-093",
+    "courseId": "nd-course-04",
+    "order": 7,
+    "title": "补32",
+    "slug": "补32",
+    "summary": "补32",
+    "content": "#补32\n\n补32内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0093"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-094",
+    "courseId": "nd-course-05",
+    "order": 8,
+    "title": "补33",
+    "slug": "补33",
+    "summary": "补33",
+    "content": "#补33\n\n补33内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0094"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-095",
+    "courseId": "nd-course-06",
+    "order": 7,
+    "title": "补34",
+    "slug": "补34",
+    "summary": "补34",
+    "content": "#补34\n\n补34内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0095"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-096",
+    "courseId": "nd-course-07",
+    "order": 7,
+    "title": "补35",
+    "slug": "补35",
+    "summary": "补35",
+    "content": "#补35\n\n补35内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0096"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-097",
+    "courseId": "nd-course-08",
+    "order": 8,
+    "title": "补36",
+    "slug": "补36",
+    "summary": "补36",
+    "content": "#补36\n\n补36内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0097"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-098",
+    "courseId": "nd-course-09",
+    "order": 8,
+    "title": "补37",
+    "slug": "补37",
+    "summary": "补37",
+    "content": "#补37\n\n补37内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0098"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-099",
+    "courseId": "nd-course-10",
+    "order": 8,
+    "title": "补38",
+    "slug": "补38",
+    "summary": "补38",
+    "content": "#补38\n\n补38内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0099"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-100",
+    "courseId": "nd-course-11",
+    "order": 8,
+    "title": "补39",
+    "slug": "补39",
+    "summary": "补39",
+    "content": "#补39\n\n补39内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0100"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-101",
+    "courseId": "nd-course-12",
+    "order": 7,
+    "title": "补40",
+    "slug": "补40",
+    "summary": "补40",
+    "content": "#补40\n\n补40内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0101"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-102",
+    "courseId": "nd-course-13",
+    "order": 7,
+    "title": "补41",
+    "slug": "补41",
+    "summary": "补41",
+    "content": "#补41\n\n补41内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0102"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-103",
+    "courseId": "nd-course-14",
+    "order": 8,
+    "title": "补42",
+    "slug": "补42",
+    "summary": "补42",
+    "content": "#补42\n\n补42内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0103"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-104",
+    "courseId": "nd-course-01",
+    "order": 7,
+    "title": "补43",
+    "slug": "补43",
+    "summary": "补43",
+    "content": "#补43\n\n补43内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0104"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-105",
+    "courseId": "nd-course-02",
+    "order": 8,
+    "title": "补44",
+    "slug": "补44",
+    "summary": "补44",
+    "content": "#补44\n\n补44内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0105"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-106",
+    "courseId": "nd-course-03",
+    "order": 8,
+    "title": "补45",
+    "slug": "补45",
+    "summary": "补45",
+    "content": "#补45\n\n补45内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0106"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-107",
+    "courseId": "nd-course-04",
+    "order": 8,
+    "title": "补46",
+    "slug": "补46",
+    "summary": "补46",
+    "content": "#补46\n\n补46内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0107"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-108",
+    "courseId": "nd-course-05",
+    "order": 9,
+    "title": "补47",
+    "slug": "补47",
+    "summary": "补47",
+    "content": "#补47\n\n补47内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0108"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-109",
+    "courseId": "nd-course-06",
+    "order": 8,
+    "title": "补48",
+    "slug": "补48",
+    "summary": "补48",
+    "content": "#补48\n\n补48内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0109"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-110",
+    "courseId": "nd-course-07",
+    "order": 8,
+    "title": "补49",
+    "slug": "补49",
+    "summary": "补49",
+    "content": "#补49\n\n补49内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0110"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-111",
+    "courseId": "nd-course-08",
+    "order": 9,
+    "title": "补50",
+    "slug": "补50",
+    "summary": "补50",
+    "content": "#补50\n\n补50内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0111"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-112",
+    "courseId": "nd-course-09",
+    "order": 9,
+    "title": "补51",
+    "slug": "补51",
+    "summary": "补51",
+    "content": "#补51\n\n补51内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0112"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-113",
+    "courseId": "nd-course-10",
+    "order": 9,
+    "title": "补52",
+    "slug": "补52",
+    "summary": "补52",
+    "content": "#补52\n\n补52内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0113"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-114",
+    "courseId": "nd-course-11",
+    "order": 9,
+    "title": "补53",
+    "slug": "补53",
+    "summary": "补53",
+    "content": "#补53\n\n补53内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0114"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-115",
+    "courseId": "nd-course-12",
+    "order": 8,
+    "title": "补54",
+    "slug": "补54",
+    "summary": "补54",
+    "content": "#补54\n\n补54内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0115"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-116",
+    "courseId": "nd-course-13",
+    "order": 8,
+    "title": "补55",
+    "slug": "补55",
+    "summary": "补55",
+    "content": "#补55\n\n补55内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0116"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-117",
+    "courseId": "nd-course-14",
+    "order": 9,
+    "title": "补56",
+    "slug": "补56",
+    "summary": "补56",
+    "content": "#补56\n\n补56内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0117"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-118",
+    "courseId": "nd-course-01",
+    "order": 8,
+    "title": "补57",
+    "slug": "补57",
+    "summary": "补57",
+    "content": "#补57\n\n补57内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0118"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-119",
+    "courseId": "nd-course-02",
+    "order": 9,
+    "title": "补58",
+    "slug": "补58",
+    "summary": "补58",
+    "content": "#补58\n\n补58内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0119"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-120",
+    "courseId": "nd-course-03",
+    "order": 9,
+    "title": "补59",
+    "slug": "补59",
+    "summary": "补59",
+    "content": "#补59\n\n补59内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0120"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-121",
+    "courseId": "nd-course-04",
+    "order": 9,
+    "title": "补60",
+    "slug": "补60",
+    "summary": "补60",
+    "content": "#补60\n\n补60内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0121"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-122",
+    "courseId": "nd-course-05",
+    "order": 10,
+    "title": "补61",
+    "slug": "补61",
+    "summary": "补61",
+    "content": "#补61\n\n补61内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0122"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-123",
+    "courseId": "nd-course-06",
+    "order": 9,
+    "title": "补62",
+    "slug": "补62",
+    "summary": "补62",
+    "content": "#补62\n\n补62内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0123"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-124",
+    "courseId": "nd-course-07",
+    "order": 9,
+    "title": "补63",
+    "slug": "补63",
+    "summary": "补63",
+    "content": "#补63\n\n补63内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0124"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-125",
+    "courseId": "nd-course-08",
+    "order": 10,
+    "title": "补64",
+    "slug": "补64",
+    "summary": "补64",
+    "content": "#补64\n\n补64内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0125"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-126",
+    "courseId": "nd-course-09",
+    "order": 10,
+    "title": "补65",
+    "slug": "补65",
+    "summary": "补65",
+    "content": "#补65\n\n补65内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0126"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-127",
+    "courseId": "nd-course-10",
+    "order": 10,
+    "title": "补66",
+    "slug": "补66",
+    "summary": "补66",
+    "content": "#补66\n\n补66内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0127"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-128",
+    "courseId": "nd-course-11",
+    "order": 10,
+    "title": "补67",
+    "slug": "补67",
+    "summary": "补67",
+    "content": "#补67\n\n补67内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0128"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-129",
+    "courseId": "nd-course-12",
+    "order": 9,
+    "title": "补68",
+    "slug": "补68",
+    "summary": "补68",
+    "content": "#补68\n\n补68内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0129"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-130",
+    "courseId": "nd-course-13",
+    "order": 9,
+    "title": "补69",
+    "slug": "补69",
+    "summary": "补69",
+    "content": "#补69\n\n补69内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0130"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-131",
+    "courseId": "nd-course-14",
+    "order": 10,
+    "title": "补70",
+    "slug": "补70",
+    "summary": "补70",
+    "content": "#补70\n\n补70内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0131"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-132",
+    "courseId": "nd-course-01",
+    "order": 9,
+    "title": "补71",
+    "slug": "补71",
+    "summary": "补71",
+    "content": "#补71\n\n补71内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0132"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-133",
+    "courseId": "nd-course-02",
+    "order": 10,
+    "title": "补72",
+    "slug": "补72",
+    "summary": "补72",
+    "content": "#补72\n\n补72内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0133"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-134",
+    "courseId": "nd-course-03",
+    "order": 10,
+    "title": "补73",
+    "slug": "补73",
+    "summary": "补73",
+    "content": "#补73\n\n补73内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0134"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-135",
+    "courseId": "nd-course-04",
+    "order": 10,
+    "title": "补74",
+    "slug": "补74",
+    "summary": "补74",
+    "content": "#补74\n\n补74内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0135"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-136",
+    "courseId": "nd-course-05",
+    "order": 11,
+    "title": "补75",
+    "slug": "补75",
+    "summary": "补75",
+    "content": "#补75\n\n补75内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0136"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-137",
+    "courseId": "nd-course-06",
+    "order": 10,
+    "title": "补76",
+    "slug": "补76",
+    "summary": "补76",
+    "content": "#补76\n\n补76内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0137"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-138",
+    "courseId": "nd-course-07",
+    "order": 10,
+    "title": "补77",
+    "slug": "补77",
+    "summary": "补77",
+    "content": "#补77\n\n补77内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0138"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-139",
+    "courseId": "nd-course-08",
+    "order": 11,
+    "title": "补78",
+    "slug": "补78",
+    "summary": "补78",
+    "content": "#补78\n\n补78内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0139"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-140",
+    "courseId": "nd-course-09",
+    "order": 11,
+    "title": "补79",
+    "slug": "补79",
+    "summary": "补79",
+    "content": "#补79\n\n补79内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0140"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-141",
+    "courseId": "nd-course-10",
+    "order": 11,
+    "title": "补80",
+    "slug": "补80",
+    "summary": "补80",
+    "content": "#补80\n\n补80内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0141"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-142",
+    "courseId": "nd-course-11",
+    "order": 11,
+    "title": "补81",
+    "slug": "补81",
+    "summary": "补81",
+    "content": "#补81\n\n补81内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0142"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-143",
+    "courseId": "nd-course-12",
+    "order": 10,
+    "title": "补82",
+    "slug": "补82",
+    "summary": "补82",
+    "content": "#补82\n\n补82内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0143"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-144",
+    "courseId": "nd-course-13",
+    "order": 10,
+    "title": "补83",
+    "slug": "补83",
+    "summary": "补83",
+    "content": "#补83\n\n补83内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0144"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-145",
+    "courseId": "nd-course-14",
+    "order": 11,
+    "title": "补84",
+    "slug": "补84",
+    "summary": "补84",
+    "content": "#补84\n\n补84内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0145"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-146",
+    "courseId": "nd-course-01",
+    "order": 10,
+    "title": "补85",
+    "slug": "补85",
+    "summary": "补85",
+    "content": "#补85\n\n补85内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0146"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-147",
+    "courseId": "nd-course-02",
+    "order": 11,
+    "title": "补86",
+    "slug": "补86",
+    "summary": "补86",
+    "content": "#补86\n\n补86内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0147"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-148",
+    "courseId": "nd-course-03",
+    "order": 11,
+    "title": "补87",
+    "slug": "补87",
+    "summary": "补87",
+    "content": "#补87\n\n补87内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0148"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-149",
+    "courseId": "nd-course-04",
+    "order": 11,
+    "title": "补88",
+    "slug": "补88",
+    "summary": "补88",
+    "content": "#补88\n\n补88内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0149"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-150",
+    "courseId": "nd-course-05",
+    "order": 12,
+    "title": "补89",
+    "slug": "补89",
+    "summary": "补89",
+    "content": "#补89\n\n补89内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0150"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-151",
+    "courseId": "nd-course-06",
+    "order": 11,
+    "title": "补90",
+    "slug": "补90",
+    "summary": "补90",
+    "content": "#补90\n\n补90内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0151"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-152",
+    "courseId": "nd-course-07",
+    "order": 11,
+    "title": "补91",
+    "slug": "补91",
+    "summary": "补91",
+    "content": "#补91\n\n补91内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0152"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-153",
+    "courseId": "nd-course-08",
+    "order": 12,
+    "title": "补92",
+    "slug": "补92",
+    "summary": "补92",
+    "content": "#补92\n\n补92内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0153"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-154",
+    "courseId": "nd-course-09",
+    "order": 12,
+    "title": "补93",
+    "slug": "补93",
+    "summary": "补93",
+    "content": "#补93\n\n补93内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0154"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-155",
+    "courseId": "nd-course-10",
+    "order": 12,
+    "title": "补94",
+    "slug": "补94",
+    "summary": "补94",
+    "content": "#补94\n\n补94内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0155"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-156",
+    "courseId": "nd-course-11",
+    "order": 12,
+    "title": "补95",
+    "slug": "补95",
+    "summary": "补95",
+    "content": "#补95\n\n补95内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0156"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-157",
+    "courseId": "nd-course-12",
+    "order": 11,
+    "title": "补96",
+    "slug": "补96",
+    "summary": "补96",
+    "content": "#补96\n\n补96内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0157"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-158",
+    "courseId": "nd-course-13",
+    "order": 11,
+    "title": "补97",
+    "slug": "补97",
+    "summary": "补97",
+    "content": "#补97\n\n补97内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0158"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-159",
+    "courseId": "nd-course-14",
+    "order": 12,
+    "title": "补98",
+    "slug": "补98",
+    "summary": "补98",
+    "content": "#补98\n\n补98内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0159"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-160",
+    "courseId": "nd-course-01",
+    "order": 11,
+    "title": "补99",
+    "slug": "补99",
+    "summary": "补99",
+    "content": "#补99\n\n补99内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0160"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-161",
+    "courseId": "nd-course-02",
+    "order": 12,
+    "title": "补100",
+    "slug": "补100",
+    "summary": "补100",
+    "content": "#补100\n\n补100内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0161"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-162",
+    "courseId": "nd-course-03",
+    "order": 12,
+    "title": "补101",
+    "slug": "补101",
+    "summary": "补101",
+    "content": "#补101\n\n补101内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0162"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-163",
+    "courseId": "nd-course-04",
+    "order": 12,
+    "title": "补102",
+    "slug": "补102",
+    "summary": "补102",
+    "content": "#补102\n\n补102内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0163"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-164",
+    "courseId": "nd-course-05",
+    "order": 13,
+    "title": "补103",
+    "slug": "补103",
+    "summary": "补103",
+    "content": "#补103\n\n补103内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0164"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-165",
+    "courseId": "nd-course-06",
+    "order": 12,
+    "title": "补104",
+    "slug": "补104",
+    "summary": "补104",
+    "content": "#补104\n\n补104内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0165"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-166",
+    "courseId": "nd-course-07",
+    "order": 12,
+    "title": "补105",
+    "slug": "补105",
+    "summary": "补105",
+    "content": "#补105\n\n补105内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0166"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-167",
+    "courseId": "nd-course-08",
+    "order": 13,
+    "title": "补106",
+    "slug": "补106",
+    "summary": "补106",
+    "content": "#补106\n\n补106内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0167"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-168",
+    "courseId": "nd-course-09",
+    "order": 13,
+    "title": "补107",
+    "slug": "补107",
+    "summary": "补107",
+    "content": "#补107\n\n补107内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0168"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-169",
+    "courseId": "nd-course-10",
+    "order": 13,
+    "title": "补108",
+    "slug": "补108",
+    "summary": "补108",
+    "content": "#补108\n\n补108内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0169"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-170",
+    "courseId": "nd-course-11",
+    "order": 13,
+    "title": "补109",
+    "slug": "补109",
+    "summary": "补109",
+    "content": "#补109\n\n补109内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0170"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-171",
+    "courseId": "nd-course-12",
+    "order": 12,
+    "title": "补110",
+    "slug": "补110",
+    "summary": "补110",
+    "content": "#补110\n\n补110内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0171"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-172",
+    "courseId": "nd-course-13",
+    "order": 12,
+    "title": "补111",
+    "slug": "补111",
+    "summary": "补111",
+    "content": "#补111\n\n补111内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0172"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-173",
+    "courseId": "nd-course-14",
+    "order": 13,
+    "title": "补112",
+    "slug": "补112",
+    "summary": "补112",
+    "content": "#补112\n\n补112内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0173"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-174",
+    "courseId": "nd-course-01",
+    "order": 12,
+    "title": "补113",
+    "slug": "补113",
+    "summary": "补113",
+    "content": "#补113\n\n补113内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0174"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-175",
+    "courseId": "nd-course-02",
+    "order": 13,
+    "title": "补114",
+    "slug": "补114",
+    "summary": "补114",
+    "content": "#补114\n\n补114内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0175"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-176",
+    "courseId": "nd-course-03",
+    "order": 13,
+    "title": "补115",
+    "slug": "补115",
+    "summary": "补115",
+    "content": "#补115\n\n补115内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0176"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-177",
+    "courseId": "nd-course-04",
+    "order": 13,
+    "title": "补116",
+    "slug": "补116",
+    "summary": "补116",
+    "content": "#补116\n\n补116内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0177"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-178",
+    "courseId": "nd-course-05",
+    "order": 14,
+    "title": "补117",
+    "slug": "补117",
+    "summary": "补117",
+    "content": "#补117\n\n补117内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0178"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-179",
+    "courseId": "nd-course-06",
+    "order": 13,
+    "title": "补118",
+    "slug": "补118",
+    "summary": "补118",
+    "content": "#补118\n\n补118内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0179"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-180",
+    "courseId": "nd-course-07",
+    "order": 13,
+    "title": "补119",
+    "slug": "补119",
+    "summary": "补119",
+    "content": "#补119\n\n补119内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0180"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-181",
+    "courseId": "nd-course-08",
+    "order": 14,
+    "title": "补120",
+    "slug": "补120",
+    "summary": "补120",
+    "content": "#补120\n\n补120内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0181"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-182",
+    "courseId": "nd-course-09",
+    "order": 14,
+    "title": "补121",
+    "slug": "补121",
+    "summary": "补121",
+    "content": "#补121\n\n补121内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0182"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-183",
+    "courseId": "nd-course-10",
+    "order": 14,
+    "title": "补122",
+    "slug": "补122",
+    "summary": "补122",
+    "content": "#补122\n\n补122内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0183"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-184",
+    "courseId": "nd-course-11",
+    "order": 14,
+    "title": "补123",
+    "slug": "补123",
+    "summary": "补123",
+    "content": "#补123\n\n补123内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0184"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-185",
+    "courseId": "nd-course-12",
+    "order": 13,
+    "title": "补124",
+    "slug": "补124",
+    "summary": "补124",
+    "content": "#补124\n\n补124内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0185"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "nd-lesson-186",
+    "courseId": "nd-course-13",
+    "order": 13,
+    "title": "补125",
+    "slug": "补125",
+    "summary": "补125",
+    "content": "#补125\n\n补125内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "nd-kp-0186"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Node"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
