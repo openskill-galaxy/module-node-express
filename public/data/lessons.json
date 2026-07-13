@@ -18,7 +18,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Node概述\n\nNode概述内容。",
+    "knowledgePoints": [
+      "nd-kp-001"
+    ]
   },
   {
     "id": "nd-lesson-002",
@@ -39,7 +43,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 运行时与V8\n\n运行时与V8内容。",
+    "knowledgePoints": [
+      "nd-kp-002"
+    ]
   },
   {
     "id": "nd-lesson-003",
@@ -60,7 +68,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Node学习路线\n\nNode学习路线内容。",
+    "knowledgePoints": [
+      "nd-kp-003"
+    ]
   },
   {
     "id": "nd-lesson-004",
@@ -81,7 +93,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# npm包管理\n\nnpm包管理内容。",
+    "knowledgePoints": [
+      "nd-kp-004"
+    ]
   },
   {
     "id": "nd-lesson-005",
@@ -102,7 +118,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# package.json\n\npackage.json内容。",
+    "knowledgePoints": [
+      "nd-kp-005"
+    ]
   },
   {
     "id": "nd-lesson-006",
@@ -123,7 +143,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# scripts\n\nscripts内容。",
+    "knowledgePoints": [
+      "nd-kp-006"
+    ]
   },
   {
     "id": "nd-lesson-007",
@@ -144,7 +168,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# npx\n\nnpx内容。",
+    "knowledgePoints": [
+      "nd-kp-007"
+    ]
   },
   {
     "id": "nd-lesson-008",
@@ -165,7 +193,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# require\n\nrequire内容。",
+    "knowledgePoints": [
+      "nd-kp-008"
+    ]
   },
   {
     "id": "nd-lesson-009",
@@ -186,7 +218,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# module.exports\n\nmodule.exports内容。",
+    "knowledgePoints": [
+      "nd-kp-009"
+    ]
   },
   {
     "id": "nd-lesson-010",
@@ -207,7 +243,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# import/export\n\nimport/export内容。",
+    "knowledgePoints": [
+      "nd-kp-010"
+    ]
   },
   {
     "id": "nd-lesson-011",
@@ -228,7 +268,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ESM与CommonJS\n\nESM与CommonJS内容。",
+    "knowledgePoints": [
+      "nd-kp-011"
+    ]
   },
   {
     "id": "nd-lesson-012",
@@ -249,7 +293,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 回调函数\n\n回调函数内容。",
+    "knowledgePoints": [
+      "nd-kp-012"
+    ]
   },
   {
     "id": "nd-lesson-013",
@@ -271,7 +319,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Promise\n\nPromise内容。",
+    "knowledgePoints": [
+      "nd-kp-013",
+      "nd-kp-014"
+    ]
   },
   {
     "id": "nd-lesson-014",
@@ -293,7 +346,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# async/await\n\nasync/await内容。",
+    "knowledgePoints": [
+      "nd-kp-015",
+      "nd-kp-016"
+    ]
   },
   {
     "id": "nd-lesson-015",
@@ -314,7 +372,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事件循环\n\n事件循环内容。",
+    "knowledgePoints": [
+      "nd-kp-017"
+    ]
   },
   {
     "id": "nd-lesson-016",
@@ -336,7 +398,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fs模块\n\nfs模块内容。",
+    "knowledgePoints": [
+      "nd-kp-018",
+      "nd-kp-019"
+    ]
   },
   {
     "id": "nd-lesson-017",
@@ -357,7 +424,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# path模块\n\npath模块内容。",
+    "knowledgePoints": [
+      "nd-kp-020"
+    ]
   },
   {
     "id": "nd-lesson-018",
@@ -378,7 +449,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# process全局\n\nprocess全局内容。",
+    "knowledgePoints": [
+      "nd-kp-021"
+    ]
   },
   {
     "id": "nd-lesson-019",
@@ -399,7 +474,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# dotenv配置\n\ndotenv配置内容。",
+    "knowledgePoints": [
+      "nd-kp-022"
+    ]
   },
   {
     "id": "nd-lesson-020",
@@ -420,7 +499,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 环境变量\n\n环境变量内容。",
+    "knowledgePoints": [
+      "nd-kp-023"
+    ]
   },
   {
     "id": "nd-lesson-021",
@@ -441,7 +524,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# http.createServer\n\nhttp.createServer内容。",
+    "knowledgePoints": [
+      "nd-kp-024"
+    ]
   },
   {
     "id": "nd-lesson-022",
@@ -462,7 +549,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# req/res对象\n\nreq/res对象内容。",
+    "knowledgePoints": [
+      "nd-kp-025"
+    ]
   },
   {
     "id": "nd-lesson-023",
@@ -483,7 +574,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 路由实现\n\n路由实现内容。",
+    "knowledgePoints": [
+      "nd-kp-026"
+    ]
   },
   {
     "id": "nd-lesson-024",
@@ -504,7 +599,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JSON响应\n\nJSON响应内容。",
+    "knowledgePoints": [
+      "nd-kp-027"
+    ]
   },
   {
     "id": "nd-lesson-025",
@@ -525,7 +624,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Express安装\n\nExpress安装内容。",
+    "knowledgePoints": [
+      "nd-kp-028"
+    ]
   },
   {
     "id": "nd-lesson-026",
@@ -546,7 +649,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# app.get/post\n\napp.get/post内容。",
+    "knowledgePoints": [
+      "nd-kp-029"
+    ]
   },
   {
     "id": "nd-lesson-027",
@@ -568,7 +675,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Router模块化\n\nRouter模块化内容。",
+    "knowledgePoints": [
+      "nd-kp-030",
+      "nd-kp-031"
+    ]
   },
   {
     "id": "nd-lesson-028",
@@ -589,7 +701,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# app.use\n\napp.use内容。",
+    "knowledgePoints": [
+      "nd-kp-032"
+    ]
   },
   {
     "id": "nd-lesson-029",
@@ -610,7 +726,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# req.params\n\nreq.params内容。",
+    "knowledgePoints": [
+      "nd-kp-033"
+    ]
   },
   {
     "id": "nd-lesson-030",
@@ -631,7 +751,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# req.query\n\nreq.query内容。",
+    "knowledgePoints": [
+      "nd-kp-034"
+    ]
   },
   {
     "id": "nd-lesson-031",
@@ -652,7 +776,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# req.body\n\nreq.body内容。",
+    "knowledgePoints": [
+      "nd-kp-035"
+    ]
   },
   {
     "id": "nd-lesson-032",
@@ -673,7 +801,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# res.json\n\nres.json内容。",
+    "knowledgePoints": [
+      "nd-kp-036"
+    ]
   },
   {
     "id": "nd-lesson-033",
@@ -694,7 +826,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# RESTful设计\n\nRESTful设计内容。",
+    "knowledgePoints": [
+      "nd-kp-037"
+    ]
   },
   {
     "id": "nd-lesson-034",
@@ -716,7 +852,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中间件概念\n\n中间件概念内容。",
+    "knowledgePoints": [
+      "nd-kp-038",
+      "nd-kp-039"
+    ]
   },
   {
     "id": "nd-lesson-035",
@@ -737,7 +878,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 应用级中间件\n\n应用级中间件内容。",
+    "knowledgePoints": [
+      "nd-kp-040"
+    ]
   },
   {
     "id": "nd-lesson-036",
@@ -759,7 +904,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 错误中间件\n\n错误中间件内容。",
+    "knowledgePoints": [
+      "nd-kp-041",
+      "nd-kp-042"
+    ]
   },
   {
     "id": "nd-lesson-037",
@@ -780,7 +930,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# cors/helmet\n\ncors/helmet内容。",
+    "knowledgePoints": [
+      "nd-kp-043"
+    ]
   },
   {
     "id": "nd-lesson-038",
@@ -801,7 +955,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# morgan日志\n\nmorgan日志内容。",
+    "knowledgePoints": [
+      "nd-kp-044"
+    ]
   },
   {
     "id": "nd-lesson-039",
@@ -823,7 +981,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Prisma入门\n\nPrisma入门内容。",
+    "knowledgePoints": [
+      "nd-kp-045",
+      "nd-kp-046"
+    ]
   },
   {
     "id": "nd-lesson-040",
@@ -844,7 +1007,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Mongoose入门\n\nMongoose入门内容。",
+    "knowledgePoints": [
+      "nd-kp-047"
+    ]
   },
   {
     "id": "nd-lesson-041",
@@ -866,7 +1033,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CRUD操作\n\nCRUD操作内容。",
+    "knowledgePoints": [
+      "nd-kp-048",
+      "nd-kp-049"
+    ]
   },
   {
     "id": "nd-lesson-042",
@@ -887,7 +1059,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分页查询\n\n分页查询内容。",
+    "knowledgePoints": [
+      "nd-kp-050"
+    ]
   },
   {
     "id": "nd-lesson-043",
@@ -908,7 +1084,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据校验\n\n数据校验内容。",
+    "knowledgePoints": [
+      "nd-kp-051"
+    ]
   },
   {
     "id": "nd-lesson-044",
@@ -930,7 +1110,12 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JWT生成\n\nJWT生成内容。",
+    "knowledgePoints": [
+      "nd-kp-052",
+      "nd-kp-053"
+    ]
   },
   {
     "id": "nd-lesson-045",
@@ -951,7 +1136,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JWT验证\n\nJWT验证内容。",
+    "knowledgePoints": [
+      "nd-kp-054"
+    ]
   },
   {
     "id": "nd-lesson-046",
@@ -972,7 +1161,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# bcrypt密码\n\nbcrypt密码内容。",
+    "knowledgePoints": [
+      "nd-kp-055"
+    ]
   },
   {
     "id": "nd-lesson-047",
@@ -993,7 +1186,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 鉴权中间件\n\n鉴权中间件内容。",
+    "knowledgePoints": [
+      "nd-kp-056"
+    ]
   },
   {
     "id": "nd-lesson-048",
@@ -1014,7 +1211,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 登录接口\n\n登录接口内容。",
+    "knowledgePoints": [
+      "nd-kp-057"
+    ]
   },
   {
     "id": "nd-lesson-049",
@@ -1035,7 +1236,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Jest测试\n\nJest测试内容。",
+    "knowledgePoints": [
+      "nd-kp-058"
+    ]
   },
   {
     "id": "nd-lesson-050",
@@ -1056,7 +1261,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Supertest\n\nSupertest内容。",
+    "knowledgePoints": [
+      "nd-kp-059"
+    ]
   },
   {
     "id": "nd-lesson-051",
@@ -1077,7 +1286,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Winston日志\n\nWinston日志内容。",
+    "knowledgePoints": [
+      "nd-kp-060"
+    ]
   },
   {
     "id": "nd-lesson-052",
@@ -1098,7 +1311,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多环境配置\n\n多环境配置内容。",
+    "knowledgePoints": [
+      "nd-kp-061"
+    ]
   },
   {
     "id": "nd-lesson-053",
@@ -1119,7 +1336,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用户API\n\n用户API内容。",
+    "knowledgePoints": [
+      "nd-kp-062"
+    ]
   },
   {
     "id": "nd-lesson-054",
@@ -1140,7 +1361,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Todo API\n\nTodo API内容。",
+    "knowledgePoints": [
+      "nd-kp-063"
+    ]
   },
   {
     "id": "nd-lesson-055",
@@ -1161,7 +1386,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 博客API\n\n博客API内容。",
+    "knowledgePoints": [
+      "nd-kp-064"
+    ]
   },
   {
     "id": "nd-lesson-056",
@@ -1182,7 +1411,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件上传\n\n文件上传内容。",
+    "knowledgePoints": [
+      "nd-kp-065"
+    ]
   },
   {
     "id": "nd-lesson-057",
@@ -1203,7 +1436,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Docker部署\n\nDocker部署内容。",
+    "knowledgePoints": [
+      "nd-kp-066"
+    ]
   },
   {
     "id": "nd-lesson-058",
@@ -1224,7 +1461,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CI/CD\n\nCI/CD内容。",
+    "knowledgePoints": [
+      "nd-kp-067"
+    ]
   },
   {
     "id": "nd-lesson-059",
@@ -1245,7 +1486,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Node面试题\n\nNode面试题内容。",
+    "knowledgePoints": [
+      "nd-kp-068"
+    ]
   },
   {
     "id": "nd-lesson-060",
@@ -1266,7 +1511,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n模拟测试内容。",
+    "knowledgePoints": [
+      "nd-kp-069"
+    ]
   },
   {
     "id": "nd-lesson-061",
@@ -1287,7 +1536,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n考前冲刺内容。",
+    "knowledgePoints": [
+      "nd-kp-070"
+    ]
   },
   {
     "id": "nd-lesson-062",
@@ -1308,7 +1561,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补1\n\n补1内容。",
+    "knowledgePoints": [
+      "nd-kp-0062"
+    ]
   },
   {
     "id": "nd-lesson-063",
@@ -1329,7 +1586,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补2\n\n补2内容。",
+    "knowledgePoints": [
+      "nd-kp-0063"
+    ]
   },
   {
     "id": "nd-lesson-064",
@@ -1350,7 +1611,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补3\n\n补3内容。",
+    "knowledgePoints": [
+      "nd-kp-0064"
+    ]
   },
   {
     "id": "nd-lesson-065",
@@ -1371,7 +1636,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补4\n\n补4内容。",
+    "knowledgePoints": [
+      "nd-kp-0065"
+    ]
   },
   {
     "id": "nd-lesson-066",
@@ -1392,7 +1661,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补5\n\n补5内容。",
+    "knowledgePoints": [
+      "nd-kp-0066"
+    ]
   },
   {
     "id": "nd-lesson-067",
@@ -1413,7 +1686,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补6\n\n补6内容。",
+    "knowledgePoints": [
+      "nd-kp-0067"
+    ]
   },
   {
     "id": "nd-lesson-068",
@@ -1434,7 +1711,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补7\n\n补7内容。",
+    "knowledgePoints": [
+      "nd-kp-0068"
+    ]
   },
   {
     "id": "nd-lesson-069",
@@ -1455,7 +1736,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补8\n\n补8内容。",
+    "knowledgePoints": [
+      "nd-kp-0069"
+    ]
   },
   {
     "id": "nd-lesson-070",
@@ -1476,7 +1761,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补9\n\n补9内容。",
+    "knowledgePoints": [
+      "nd-kp-0070"
+    ]
   },
   {
     "id": "nd-lesson-071",
@@ -1497,7 +1786,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补10\n\n补10内容。",
+    "knowledgePoints": [
+      "nd-kp-0071"
+    ]
   },
   {
     "id": "nd-lesson-072",
@@ -1518,7 +1811,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补11\n\n补11内容。",
+    "knowledgePoints": [
+      "nd-kp-0072"
+    ]
   },
   {
     "id": "nd-lesson-073",
@@ -1539,7 +1836,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补12\n\n补12内容。",
+    "knowledgePoints": [
+      "nd-kp-0073"
+    ]
   },
   {
     "id": "nd-lesson-074",
@@ -1560,7 +1861,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补13\n\n补13内容。",
+    "knowledgePoints": [
+      "nd-kp-0074"
+    ]
   },
   {
     "id": "nd-lesson-075",
@@ -1581,7 +1886,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补14\n\n补14内容。",
+    "knowledgePoints": [
+      "nd-kp-0075"
+    ]
   },
   {
     "id": "nd-lesson-076",
@@ -1602,7 +1911,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补15\n\n补15内容。",
+    "knowledgePoints": [
+      "nd-kp-0076"
+    ]
   },
   {
     "id": "nd-lesson-077",
@@ -1623,7 +1936,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补16\n\n补16内容。",
+    "knowledgePoints": [
+      "nd-kp-0077"
+    ]
   },
   {
     "id": "nd-lesson-078",
@@ -1644,7 +1961,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补17\n\n补17内容。",
+    "knowledgePoints": [
+      "nd-kp-0078"
+    ]
   },
   {
     "id": "nd-lesson-079",
@@ -1665,7 +1986,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补18\n\n补18内容。",
+    "knowledgePoints": [
+      "nd-kp-0079"
+    ]
   },
   {
     "id": "nd-lesson-080",
@@ -1686,7 +2011,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补19\n\n补19内容。",
+    "knowledgePoints": [
+      "nd-kp-0080"
+    ]
   },
   {
     "id": "nd-lesson-081",
@@ -1707,7 +2036,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补20\n\n补20内容。",
+    "knowledgePoints": [
+      "nd-kp-0081"
+    ]
   },
   {
     "id": "nd-lesson-082",
@@ -1728,7 +2061,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补21\n\n补21内容。",
+    "knowledgePoints": [
+      "nd-kp-0082"
+    ]
   },
   {
     "id": "nd-lesson-083",
@@ -1749,7 +2086,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补22\n\n补22内容。",
+    "knowledgePoints": [
+      "nd-kp-0083"
+    ]
   },
   {
     "id": "nd-lesson-084",
@@ -1770,7 +2111,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补23\n\n补23内容。",
+    "knowledgePoints": [
+      "nd-kp-0084"
+    ]
   },
   {
     "id": "nd-lesson-085",
@@ -1791,7 +2136,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补24\n\n补24内容。",
+    "knowledgePoints": [
+      "nd-kp-0085"
+    ]
   },
   {
     "id": "nd-lesson-086",
@@ -1812,7 +2161,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补25\n\n补25内容。",
+    "knowledgePoints": [
+      "nd-kp-0086"
+    ]
   },
   {
     "id": "nd-lesson-087",
@@ -1833,7 +2186,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补26\n\n补26内容。",
+    "knowledgePoints": [
+      "nd-kp-0087"
+    ]
   },
   {
     "id": "nd-lesson-088",
@@ -1854,7 +2211,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补27\n\n补27内容。",
+    "knowledgePoints": [
+      "nd-kp-0088"
+    ]
   },
   {
     "id": "nd-lesson-089",
@@ -1875,7 +2236,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补28\n\n补28内容。",
+    "knowledgePoints": [
+      "nd-kp-0089"
+    ]
   },
   {
     "id": "nd-lesson-090",
@@ -1896,7 +2261,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补29\n\n补29内容。",
+    "knowledgePoints": [
+      "nd-kp-0090"
+    ]
   },
   {
     "id": "nd-lesson-091",
@@ -1917,7 +2286,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补30\n\n补30内容。",
+    "knowledgePoints": [
+      "nd-kp-0091"
+    ]
   },
   {
     "id": "nd-lesson-092",
@@ -1938,7 +2311,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补31\n\n补31内容。",
+    "knowledgePoints": [
+      "nd-kp-0092"
+    ]
   },
   {
     "id": "nd-lesson-093",
@@ -1959,7 +2336,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补32\n\n补32内容。",
+    "knowledgePoints": [
+      "nd-kp-0093"
+    ]
   },
   {
     "id": "nd-lesson-094",
@@ -1980,7 +2361,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补33\n\n补33内容。",
+    "knowledgePoints": [
+      "nd-kp-0094"
+    ]
   },
   {
     "id": "nd-lesson-095",
@@ -2001,7 +2386,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补34\n\n补34内容。",
+    "knowledgePoints": [
+      "nd-kp-0095"
+    ]
   },
   {
     "id": "nd-lesson-096",
@@ -2022,7 +2411,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补35\n\n补35内容。",
+    "knowledgePoints": [
+      "nd-kp-0096"
+    ]
   },
   {
     "id": "nd-lesson-097",
@@ -2043,7 +2436,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补36\n\n补36内容。",
+    "knowledgePoints": [
+      "nd-kp-0097"
+    ]
   },
   {
     "id": "nd-lesson-098",
@@ -2064,7 +2461,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补37\n\n补37内容。",
+    "knowledgePoints": [
+      "nd-kp-0098"
+    ]
   },
   {
     "id": "nd-lesson-099",
@@ -2085,7 +2486,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补38\n\n补38内容。",
+    "knowledgePoints": [
+      "nd-kp-0099"
+    ]
   },
   {
     "id": "nd-lesson-100",
@@ -2106,7 +2511,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补39\n\n补39内容。",
+    "knowledgePoints": [
+      "nd-kp-0100"
+    ]
   },
   {
     "id": "nd-lesson-101",
@@ -2127,7 +2536,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补40\n\n补40内容。",
+    "knowledgePoints": [
+      "nd-kp-0101"
+    ]
   },
   {
     "id": "nd-lesson-102",
@@ -2148,7 +2561,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补41\n\n补41内容。",
+    "knowledgePoints": [
+      "nd-kp-0102"
+    ]
   },
   {
     "id": "nd-lesson-103",
@@ -2169,7 +2586,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补42\n\n补42内容。",
+    "knowledgePoints": [
+      "nd-kp-0103"
+    ]
   },
   {
     "id": "nd-lesson-104",
@@ -2190,7 +2611,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补43\n\n补43内容。",
+    "knowledgePoints": [
+      "nd-kp-0104"
+    ]
   },
   {
     "id": "nd-lesson-105",
@@ -2211,7 +2636,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补44\n\n补44内容。",
+    "knowledgePoints": [
+      "nd-kp-0105"
+    ]
   },
   {
     "id": "nd-lesson-106",
@@ -2232,7 +2661,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补45\n\n补45内容。",
+    "knowledgePoints": [
+      "nd-kp-0106"
+    ]
   },
   {
     "id": "nd-lesson-107",
@@ -2253,7 +2686,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补46\n\n补46内容。",
+    "knowledgePoints": [
+      "nd-kp-0107"
+    ]
   },
   {
     "id": "nd-lesson-108",
@@ -2274,7 +2711,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补47\n\n补47内容。",
+    "knowledgePoints": [
+      "nd-kp-0108"
+    ]
   },
   {
     "id": "nd-lesson-109",
@@ -2295,7 +2736,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补48\n\n补48内容。",
+    "knowledgePoints": [
+      "nd-kp-0109"
+    ]
   },
   {
     "id": "nd-lesson-110",
@@ -2316,7 +2761,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补49\n\n补49内容。",
+    "knowledgePoints": [
+      "nd-kp-0110"
+    ]
   },
   {
     "id": "nd-lesson-111",
@@ -2337,7 +2786,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补50\n\n补50内容。",
+    "knowledgePoints": [
+      "nd-kp-0111"
+    ]
   },
   {
     "id": "nd-lesson-112",
@@ -2358,7 +2811,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补51\n\n补51内容。",
+    "knowledgePoints": [
+      "nd-kp-0112"
+    ]
   },
   {
     "id": "nd-lesson-113",
@@ -2379,7 +2836,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补52\n\n补52内容。",
+    "knowledgePoints": [
+      "nd-kp-0113"
+    ]
   },
   {
     "id": "nd-lesson-114",
@@ -2400,7 +2861,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补53\n\n补53内容。",
+    "knowledgePoints": [
+      "nd-kp-0114"
+    ]
   },
   {
     "id": "nd-lesson-115",
@@ -2421,7 +2886,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补54\n\n补54内容。",
+    "knowledgePoints": [
+      "nd-kp-0115"
+    ]
   },
   {
     "id": "nd-lesson-116",
@@ -2442,7 +2911,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补55\n\n补55内容。",
+    "knowledgePoints": [
+      "nd-kp-0116"
+    ]
   },
   {
     "id": "nd-lesson-117",
@@ -2463,7 +2936,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补56\n\n补56内容。",
+    "knowledgePoints": [
+      "nd-kp-0117"
+    ]
   },
   {
     "id": "nd-lesson-118",
@@ -2484,7 +2961,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补57\n\n补57内容。",
+    "knowledgePoints": [
+      "nd-kp-0118"
+    ]
   },
   {
     "id": "nd-lesson-119",
@@ -2505,7 +2986,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补58\n\n补58内容。",
+    "knowledgePoints": [
+      "nd-kp-0119"
+    ]
   },
   {
     "id": "nd-lesson-120",
@@ -2526,7 +3011,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补59\n\n补59内容。",
+    "knowledgePoints": [
+      "nd-kp-0120"
+    ]
   },
   {
     "id": "nd-lesson-121",
@@ -2547,7 +3036,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补60\n\n补60内容。",
+    "knowledgePoints": [
+      "nd-kp-0121"
+    ]
   },
   {
     "id": "nd-lesson-122",
@@ -2568,7 +3061,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补61\n\n补61内容。",
+    "knowledgePoints": [
+      "nd-kp-0122"
+    ]
   },
   {
     "id": "nd-lesson-123",
@@ -2589,7 +3086,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补62\n\n补62内容。",
+    "knowledgePoints": [
+      "nd-kp-0123"
+    ]
   },
   {
     "id": "nd-lesson-124",
@@ -2610,7 +3111,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补63\n\n补63内容。",
+    "knowledgePoints": [
+      "nd-kp-0124"
+    ]
   },
   {
     "id": "nd-lesson-125",
@@ -2631,7 +3136,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补64\n\n补64内容。",
+    "knowledgePoints": [
+      "nd-kp-0125"
+    ]
   },
   {
     "id": "nd-lesson-126",
@@ -2652,7 +3161,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补65\n\n补65内容。",
+    "knowledgePoints": [
+      "nd-kp-0126"
+    ]
   },
   {
     "id": "nd-lesson-127",
@@ -2673,7 +3186,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补66\n\n补66内容。",
+    "knowledgePoints": [
+      "nd-kp-0127"
+    ]
   },
   {
     "id": "nd-lesson-128",
@@ -2694,7 +3211,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补67\n\n补67内容。",
+    "knowledgePoints": [
+      "nd-kp-0128"
+    ]
   },
   {
     "id": "nd-lesson-129",
@@ -2715,7 +3236,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补68\n\n补68内容。",
+    "knowledgePoints": [
+      "nd-kp-0129"
+    ]
   },
   {
     "id": "nd-lesson-130",
@@ -2736,7 +3261,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补69\n\n补69内容。",
+    "knowledgePoints": [
+      "nd-kp-0130"
+    ]
   },
   {
     "id": "nd-lesson-131",
@@ -2757,7 +3286,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补70\n\n补70内容。",
+    "knowledgePoints": [
+      "nd-kp-0131"
+    ]
   },
   {
     "id": "nd-lesson-132",
@@ -2778,7 +3311,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补71\n\n补71内容。",
+    "knowledgePoints": [
+      "nd-kp-0132"
+    ]
   },
   {
     "id": "nd-lesson-133",
@@ -2799,7 +3336,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补72\n\n补72内容。",
+    "knowledgePoints": [
+      "nd-kp-0133"
+    ]
   },
   {
     "id": "nd-lesson-134",
@@ -2820,7 +3361,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补73\n\n补73内容。",
+    "knowledgePoints": [
+      "nd-kp-0134"
+    ]
   },
   {
     "id": "nd-lesson-135",
@@ -2841,7 +3386,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补74\n\n补74内容。",
+    "knowledgePoints": [
+      "nd-kp-0135"
+    ]
   },
   {
     "id": "nd-lesson-136",
@@ -2862,7 +3411,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补75\n\n补75内容。",
+    "knowledgePoints": [
+      "nd-kp-0136"
+    ]
   },
   {
     "id": "nd-lesson-137",
@@ -2883,7 +3436,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补76\n\n补76内容。",
+    "knowledgePoints": [
+      "nd-kp-0137"
+    ]
   },
   {
     "id": "nd-lesson-138",
@@ -2904,7 +3461,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补77\n\n补77内容。",
+    "knowledgePoints": [
+      "nd-kp-0138"
+    ]
   },
   {
     "id": "nd-lesson-139",
@@ -2925,7 +3486,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补78\n\n补78内容。",
+    "knowledgePoints": [
+      "nd-kp-0139"
+    ]
   },
   {
     "id": "nd-lesson-140",
@@ -2946,7 +3511,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补79\n\n补79内容。",
+    "knowledgePoints": [
+      "nd-kp-0140"
+    ]
   },
   {
     "id": "nd-lesson-141",
@@ -2967,7 +3536,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补80\n\n补80内容。",
+    "knowledgePoints": [
+      "nd-kp-0141"
+    ]
   },
   {
     "id": "nd-lesson-142",
@@ -2988,7 +3561,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补81\n\n补81内容。",
+    "knowledgePoints": [
+      "nd-kp-0142"
+    ]
   },
   {
     "id": "nd-lesson-143",
@@ -3009,7 +3586,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补82\n\n补82内容。",
+    "knowledgePoints": [
+      "nd-kp-0143"
+    ]
   },
   {
     "id": "nd-lesson-144",
@@ -3030,7 +3611,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补83\n\n补83内容。",
+    "knowledgePoints": [
+      "nd-kp-0144"
+    ]
   },
   {
     "id": "nd-lesson-145",
@@ -3051,7 +3636,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补84\n\n补84内容。",
+    "knowledgePoints": [
+      "nd-kp-0145"
+    ]
   },
   {
     "id": "nd-lesson-146",
@@ -3072,7 +3661,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补85\n\n补85内容。",
+    "knowledgePoints": [
+      "nd-kp-0146"
+    ]
   },
   {
     "id": "nd-lesson-147",
@@ -3093,7 +3686,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补86\n\n补86内容。",
+    "knowledgePoints": [
+      "nd-kp-0147"
+    ]
   },
   {
     "id": "nd-lesson-148",
@@ -3114,7 +3711,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补87\n\n补87内容。",
+    "knowledgePoints": [
+      "nd-kp-0148"
+    ]
   },
   {
     "id": "nd-lesson-149",
@@ -3135,7 +3736,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补88\n\n补88内容。",
+    "knowledgePoints": [
+      "nd-kp-0149"
+    ]
   },
   {
     "id": "nd-lesson-150",
@@ -3156,7 +3761,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补89\n\n补89内容。",
+    "knowledgePoints": [
+      "nd-kp-0150"
+    ]
   },
   {
     "id": "nd-lesson-151",
@@ -3177,7 +3786,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补90\n\n补90内容。",
+    "knowledgePoints": [
+      "nd-kp-0151"
+    ]
   },
   {
     "id": "nd-lesson-152",
@@ -3198,7 +3811,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补91\n\n补91内容。",
+    "knowledgePoints": [
+      "nd-kp-0152"
+    ]
   },
   {
     "id": "nd-lesson-153",
@@ -3219,7 +3836,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补92\n\n补92内容。",
+    "knowledgePoints": [
+      "nd-kp-0153"
+    ]
   },
   {
     "id": "nd-lesson-154",
@@ -3240,7 +3861,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补93\n\n补93内容。",
+    "knowledgePoints": [
+      "nd-kp-0154"
+    ]
   },
   {
     "id": "nd-lesson-155",
@@ -3261,7 +3886,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补94\n\n补94内容。",
+    "knowledgePoints": [
+      "nd-kp-0155"
+    ]
   },
   {
     "id": "nd-lesson-156",
@@ -3282,7 +3911,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补95\n\n补95内容。",
+    "knowledgePoints": [
+      "nd-kp-0156"
+    ]
   },
   {
     "id": "nd-lesson-157",
@@ -3303,7 +3936,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补96\n\n补96内容。",
+    "knowledgePoints": [
+      "nd-kp-0157"
+    ]
   },
   {
     "id": "nd-lesson-158",
@@ -3324,7 +3961,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补97\n\n补97内容。",
+    "knowledgePoints": [
+      "nd-kp-0158"
+    ]
   },
   {
     "id": "nd-lesson-159",
@@ -3345,7 +3986,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补98\n\n补98内容。",
+    "knowledgePoints": [
+      "nd-kp-0159"
+    ]
   },
   {
     "id": "nd-lesson-160",
@@ -3366,7 +4011,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补99\n\n补99内容。",
+    "knowledgePoints": [
+      "nd-kp-0160"
+    ]
   },
   {
     "id": "nd-lesson-161",
@@ -3387,7 +4036,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补100\n\n补100内容。",
+    "knowledgePoints": [
+      "nd-kp-0161"
+    ]
   },
   {
     "id": "nd-lesson-162",
@@ -3408,7 +4061,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补101\n\n补101内容。",
+    "knowledgePoints": [
+      "nd-kp-0162"
+    ]
   },
   {
     "id": "nd-lesson-163",
@@ -3429,7 +4086,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补102\n\n补102内容。",
+    "knowledgePoints": [
+      "nd-kp-0163"
+    ]
   },
   {
     "id": "nd-lesson-164",
@@ -3450,7 +4111,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补103\n\n补103内容。",
+    "knowledgePoints": [
+      "nd-kp-0164"
+    ]
   },
   {
     "id": "nd-lesson-165",
@@ -3471,7 +4136,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补104\n\n补104内容。",
+    "knowledgePoints": [
+      "nd-kp-0165"
+    ]
   },
   {
     "id": "nd-lesson-166",
@@ -3492,7 +4161,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补105\n\n补105内容。",
+    "knowledgePoints": [
+      "nd-kp-0166"
+    ]
   },
   {
     "id": "nd-lesson-167",
@@ -3513,7 +4186,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补106\n\n补106内容。",
+    "knowledgePoints": [
+      "nd-kp-0167"
+    ]
   },
   {
     "id": "nd-lesson-168",
@@ -3534,7 +4211,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补107\n\n补107内容。",
+    "knowledgePoints": [
+      "nd-kp-0168"
+    ]
   },
   {
     "id": "nd-lesson-169",
@@ -3555,7 +4236,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补108\n\n补108内容。",
+    "knowledgePoints": [
+      "nd-kp-0169"
+    ]
   },
   {
     "id": "nd-lesson-170",
@@ -3576,7 +4261,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补109\n\n补109内容。",
+    "knowledgePoints": [
+      "nd-kp-0170"
+    ]
   },
   {
     "id": "nd-lesson-171",
@@ -3597,7 +4286,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补110\n\n补110内容。",
+    "knowledgePoints": [
+      "nd-kp-0171"
+    ]
   },
   {
     "id": "nd-lesson-172",
@@ -3618,7 +4311,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补111\n\n补111内容。",
+    "knowledgePoints": [
+      "nd-kp-0172"
+    ]
   },
   {
     "id": "nd-lesson-173",
@@ -3639,7 +4336,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补112\n\n补112内容。",
+    "knowledgePoints": [
+      "nd-kp-0173"
+    ]
   },
   {
     "id": "nd-lesson-174",
@@ -3660,7 +4361,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补113\n\n补113内容。",
+    "knowledgePoints": [
+      "nd-kp-0174"
+    ]
   },
   {
     "id": "nd-lesson-175",
@@ -3681,7 +4386,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补114\n\n补114内容。",
+    "knowledgePoints": [
+      "nd-kp-0175"
+    ]
   },
   {
     "id": "nd-lesson-176",
@@ -3702,7 +4411,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补115\n\n补115内容。",
+    "knowledgePoints": [
+      "nd-kp-0176"
+    ]
   },
   {
     "id": "nd-lesson-177",
@@ -3723,7 +4436,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补116\n\n补116内容。",
+    "knowledgePoints": [
+      "nd-kp-0177"
+    ]
   },
   {
     "id": "nd-lesson-178",
@@ -3744,7 +4461,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补117\n\n补117内容。",
+    "knowledgePoints": [
+      "nd-kp-0178"
+    ]
   },
   {
     "id": "nd-lesson-179",
@@ -3765,7 +4486,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补118\n\n补118内容。",
+    "knowledgePoints": [
+      "nd-kp-0179"
+    ]
   },
   {
     "id": "nd-lesson-180",
@@ -3786,7 +4511,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补119\n\n补119内容。",
+    "knowledgePoints": [
+      "nd-kp-0180"
+    ]
   },
   {
     "id": "nd-lesson-181",
@@ -3807,7 +4536,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补120\n\n补120内容。",
+    "knowledgePoints": [
+      "nd-kp-0181"
+    ]
   },
   {
     "id": "nd-lesson-182",
@@ -3828,7 +4561,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补121\n\n补121内容。",
+    "knowledgePoints": [
+      "nd-kp-0182"
+    ]
   },
   {
     "id": "nd-lesson-183",
@@ -3849,7 +4586,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补122\n\n补122内容。",
+    "knowledgePoints": [
+      "nd-kp-0183"
+    ]
   },
   {
     "id": "nd-lesson-184",
@@ -3870,7 +4611,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补123\n\n补123内容。",
+    "knowledgePoints": [
+      "nd-kp-0184"
+    ]
   },
   {
     "id": "nd-lesson-185",
@@ -3891,7 +4636,11 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补124\n\n补124内容。",
+    "knowledgePoints": [
+      "nd-kp-0185"
+    ]
   },
   {
     "id": "nd-lesson-186",
@@ -3912,6 +4661,10 @@
       "Node"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补125\n\n补125内容。",
+    "knowledgePoints": [
+      "nd-kp-0186"
+    ]
   }
 ]

@@ -24,7 +24,13 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-001",
+      "nd-lesson-002",
+      "nd-lesson-003"
+    ],
+    "summary": "Node概述、运行时、V8引擎、学习路线。"
   },
   {
     "id": "nd-course-02",
@@ -52,7 +58,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-004",
+      "nd-lesson-005",
+      "nd-lesson-006",
+      "nd-lesson-007"
+    ],
+    "summary": "npm、package.json、scripts、npx、项目结构。"
   },
   {
     "id": "nd-course-03",
@@ -80,7 +93,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-008",
+      "nd-lesson-009",
+      "nd-lesson-010",
+      "nd-lesson-011"
+    ],
+    "summary": "require/module.exports、import/export、模块系统。"
   },
   {
     "id": "nd-course-04",
@@ -108,7 +128,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-012",
+      "nd-lesson-013",
+      "nd-lesson-014",
+      "nd-lesson-015"
+    ],
+    "summary": "回调、Promise、async/await、事件循环。"
   },
   {
     "id": "nd-course-05",
@@ -137,7 +164,15 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-016",
+      "nd-lesson-017",
+      "nd-lesson-018",
+      "nd-lesson-019",
+      "nd-lesson-020"
+    ],
+    "summary": "fs/path/process/dotenv/env配置。"
   },
   {
     "id": "nd-course-06",
@@ -165,7 +200,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-021",
+      "nd-lesson-022",
+      "nd-lesson-023",
+      "nd-lesson-024"
+    ],
+    "summary": "http模块、request/response、路由基础。"
   },
   {
     "id": "nd-course-07",
@@ -193,7 +235,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-025",
+      "nd-lesson-026",
+      "nd-lesson-027",
+      "nd-lesson-028"
+    ],
+    "summary": "Express安装、app、router、路由方法。"
   },
   {
     "id": "nd-course-08",
@@ -222,7 +271,15 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-029",
+      "nd-lesson-030",
+      "nd-lesson-031",
+      "nd-lesson-032",
+      "nd-lesson-033"
+    ],
+    "summary": "params/query/body、JSON响应、RESTful设计。"
   },
   {
     "id": "nd-course-09",
@@ -251,7 +308,15 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-034",
+      "nd-lesson-035",
+      "nd-lesson-036",
+      "nd-lesson-037",
+      "nd-lesson-038"
+    ],
+    "summary": "中间件概念、应用级中间件、错误处理、第三方中间件。"
   },
   {
     "id": "nd-course-10",
@@ -280,7 +345,15 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-039",
+      "nd-lesson-040",
+      "nd-lesson-041",
+      "nd-lesson-042",
+      "nd-lesson-043"
+    ],
+    "summary": "Prisma/Mongoose/Sequelize、CRUD操作、分页。"
   },
   {
     "id": "nd-course-11",
@@ -309,7 +382,15 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-044",
+      "nd-lesson-045",
+      "nd-lesson-046",
+      "nd-lesson-047",
+      "nd-lesson-048"
+    ],
+    "summary": "JWT生成验证、bcrypt密码、中间件鉴权。"
   },
   {
     "id": "nd-course-12",
@@ -337,7 +418,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-049",
+      "nd-lesson-050",
+      "nd-lesson-051",
+      "nd-lesson-052"
+    ],
+    "summary": "Jest/Supertest测试、Morgan/Winston日志、多环境配置。"
   },
   {
     "id": "nd-course-13",
@@ -365,7 +453,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-053",
+      "nd-lesson-054",
+      "nd-lesson-055",
+      "nd-lesson-056"
+    ],
+    "summary": "REST API项目、用户系统、Todo API、博客API。"
   },
   {
     "id": "nd-course-14",
@@ -394,6 +489,14 @@
       "理解异步编程",
       "具备后端开发能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "nd-lesson-057",
+      "nd-lesson-058",
+      "nd-lesson-059",
+      "nd-lesson-060",
+      "nd-lesson-061"
+    ],
+    "summary": "Docker部署、CI/CD、面试题、全栈案例。"
   }
 ]

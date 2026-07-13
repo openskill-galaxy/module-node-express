@@ -36,7 +36,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门基础",
+    "description": "Node入门基础",
+    "slug": "node入门基础"
   },
   {
     "id": "nd-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构基础",
+    "description": "npm与项目结构基础",
+    "slug": "npm与项目结构基础"
   },
   {
     "id": "nd-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "模块系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块系统基础",
+    "description": "模块系统基础",
+    "slug": "模块系统基础"
   },
   {
     "id": "nd-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "异步编程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "异步编程基础",
+    "description": "异步编程基础",
+    "slug": "异步编程基础"
   },
   {
     "id": "nd-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "文件系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统基础",
+    "description": "文件系统基础",
+    "slug": "文件系统基础"
   },
   {
     "id": "nd-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "HTTP基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HTTP基础基础",
+    "description": "HTTP基础基础",
+    "slug": "http基础基础"
   },
   {
     "id": "nd-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "Express入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Express入门基础",
+    "description": "Express入门基础",
+    "slug": "express入门基础"
   },
   {
     "id": "nd-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "请求响应REST"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "请求响应REST基础",
+    "description": "请求响应REST基础",
+    "slug": "请求响应rest基础"
   },
   {
     "id": "nd-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "中间件错误处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中间件错误处理基础",
+    "description": "中间件错误处理基础",
+    "slug": "中间件错误处理基础"
   },
   {
     "id": "nd-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "数据库CRUD"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据库CRUD基础",
+    "description": "数据库CRUD基础",
+    "slug": "数据库crud基础"
   },
   {
     "id": "nd-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "登录JWT"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "登录JWT基础",
+    "description": "登录JWT基础",
+    "slug": "登录jwt基础"
   },
   {
     "id": "nd-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "测试日志"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试日志基础",
+    "description": "测试日志基础",
+    "slug": "测试日志基础"
   },
   {
     "id": "nd-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战基础",
+    "description": "项目实战基础",
+    "slug": "项目实战基础"
   },
   {
     "id": "nd-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "部署面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "部署面试基础",
+    "description": "部署面试基础",
+    "slug": "部署面试基础"
   },
   {
     "id": "nd-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门基础",
+    "description": "Node入门基础",
+    "slug": "node入门基础"
   },
   {
     "id": "nd-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构基础",
+    "description": "npm与项目结构基础",
+    "slug": "npm与项目结构基础"
   },
   {
     "id": "nd-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "模块系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块系统基础",
+    "description": "模块系统基础",
+    "slug": "模块系统基础"
   },
   {
     "id": "nd-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "异步编程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "异步编程基础",
+    "description": "异步编程基础",
+    "slug": "异步编程基础"
   },
   {
     "id": "nd-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "文件系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统基础",
+    "description": "文件系统基础",
+    "slug": "文件系统基础"
   },
   {
     "id": "nd-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "HTTP基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HTTP基础基础",
+    "description": "HTTP基础基础",
+    "slug": "http基础基础"
   },
   {
     "id": "nd-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "Express入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Express入门基础",
+    "description": "Express入门基础",
+    "slug": "express入门基础"
   },
   {
     "id": "nd-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "请求响应REST"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "请求响应REST基础",
+    "description": "请求响应REST基础",
+    "slug": "请求响应rest基础"
   },
   {
     "id": "nd-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "中间件错误处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中间件错误处理基础",
+    "description": "中间件错误处理基础",
+    "slug": "中间件错误处理基础"
   },
   {
     "id": "nd-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "数据库CRUD"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据库CRUD基础",
+    "description": "数据库CRUD基础",
+    "slug": "数据库crud基础"
   },
   {
     "id": "nd-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "登录JWT"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "登录JWT基础",
+    "description": "登录JWT基础",
+    "slug": "登录jwt基础"
   },
   {
     "id": "nd-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "测试日志"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试日志基础",
+    "description": "测试日志基础",
+    "slug": "测试日志基础"
   },
   {
     "id": "nd-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战基础",
+    "description": "项目实战基础",
+    "slug": "项目实战基础"
   },
   {
     "id": "nd-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "部署面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "部署面试基础",
+    "description": "部署面试基础",
+    "slug": "部署面试基础"
   },
   {
     "id": "nd-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门基础",
+    "description": "Node入门基础",
+    "slug": "node入门基础"
   },
   {
     "id": "nd-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构基础",
+    "description": "npm与项目结构基础",
+    "slug": "npm与项目结构基础"
   },
   {
     "id": "nd-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "模块系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块系统基础",
+    "description": "模块系统基础",
+    "slug": "模块系统基础"
   },
   {
     "id": "nd-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "异步编程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "异步编程基础",
+    "description": "异步编程基础",
+    "slug": "异步编程基础"
   },
   {
     "id": "nd-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "文件系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统基础",
+    "description": "文件系统基础",
+    "slug": "文件系统基础"
   },
   {
     "id": "nd-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "HTTP基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HTTP基础基础",
+    "description": "HTTP基础基础",
+    "slug": "http基础基础"
   },
   {
     "id": "nd-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "Express入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Express入门基础",
+    "description": "Express入门基础",
+    "slug": "express入门基础"
   },
   {
     "id": "nd-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "请求响应REST"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "请求响应REST进阶",
+    "description": "请求响应REST进阶",
+    "slug": "请求响应rest进阶"
   },
   {
     "id": "nd-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "中间件错误处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中间件错误处理进阶",
+    "description": "中间件错误处理进阶",
+    "slug": "中间件错误处理进阶"
   },
   {
     "id": "nd-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "数据库CRUD"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据库CRUD进阶",
+    "description": "数据库CRUD进阶",
+    "slug": "数据库crud进阶"
   },
   {
     "id": "nd-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "登录JWT"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "登录JWT进阶",
+    "description": "登录JWT进阶",
+    "slug": "登录jwt进阶"
   },
   {
     "id": "nd-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "测试日志"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试日志进阶",
+    "description": "测试日志进阶",
+    "slug": "测试日志进阶"
   },
   {
     "id": "nd-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战进阶",
+    "description": "项目实战进阶",
+    "slug": "项目实战进阶"
   },
   {
     "id": "nd-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "部署面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "部署面试进阶",
+    "description": "部署面试进阶",
+    "slug": "部署面试进阶"
   },
   {
     "id": "nd-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门进阶",
+    "description": "Node入门进阶",
+    "slug": "node入门进阶"
   },
   {
     "id": "nd-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构进阶",
+    "description": "npm与项目结构进阶",
+    "slug": "npm与项目结构进阶"
   },
   {
     "id": "nd-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "模块系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块系统进阶",
+    "description": "模块系统进阶",
+    "slug": "模块系统进阶"
   },
   {
     "id": "nd-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "异步编程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "异步编程进阶",
+    "description": "异步编程进阶",
+    "slug": "异步编程进阶"
   },
   {
     "id": "nd-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "文件系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统进阶",
+    "description": "文件系统进阶",
+    "slug": "文件系统进阶"
   },
   {
     "id": "nd-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "HTTP基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HTTP基础进阶",
+    "description": "HTTP基础进阶",
+    "slug": "http基础进阶"
   },
   {
     "id": "nd-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "Express入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Express入门进阶",
+    "description": "Express入门进阶",
+    "slug": "express入门进阶"
   },
   {
     "id": "nd-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "请求响应REST"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "请求响应REST进阶",
+    "description": "请求响应REST进阶",
+    "slug": "请求响应rest进阶"
   },
   {
     "id": "nd-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "中间件错误处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中间件错误处理进阶",
+    "description": "中间件错误处理进阶",
+    "slug": "中间件错误处理进阶"
   },
   {
     "id": "nd-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "数据库CRUD"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据库CRUD进阶",
+    "description": "数据库CRUD进阶",
+    "slug": "数据库crud进阶"
   },
   {
     "id": "nd-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "登录JWT"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "登录JWT进阶",
+    "description": "登录JWT进阶",
+    "slug": "登录jwt进阶"
   },
   {
     "id": "nd-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "测试日志"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试日志进阶",
+    "description": "测试日志进阶",
+    "slug": "测试日志进阶"
   },
   {
     "id": "nd-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战进阶",
+    "description": "项目实战进阶",
+    "slug": "项目实战进阶"
   },
   {
     "id": "nd-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "部署面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "部署面试进阶",
+    "description": "部署面试进阶",
+    "slug": "部署面试进阶"
   },
   {
     "id": "nd-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门进阶",
+    "description": "Node入门进阶",
+    "slug": "node入门进阶"
   },
   {
     "id": "nd-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构进阶",
+    "description": "npm与项目结构进阶",
+    "slug": "npm与项目结构进阶"
   },
   {
     "id": "nd-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "模块系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块系统进阶",
+    "description": "模块系统进阶",
+    "slug": "模块系统进阶"
   },
   {
     "id": "nd-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "异步编程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "异步编程进阶",
+    "description": "异步编程进阶",
+    "slug": "异步编程进阶"
   },
   {
     "id": "nd-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "文件系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统进阶",
+    "description": "文件系统进阶",
+    "slug": "文件系统进阶"
   },
   {
     "id": "nd-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "HTTP基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HTTP基础进阶",
+    "description": "HTTP基础进阶",
+    "slug": "http基础进阶"
   },
   {
     "id": "nd-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "Express入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Express入门进阶",
+    "description": "Express入门进阶",
+    "slug": "express入门进阶"
   },
   {
     "id": "nd-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "请求响应REST"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "请求响应REST进阶",
+    "description": "请求响应REST进阶",
+    "slug": "请求响应rest进阶"
   },
   {
     "id": "nd-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "中间件错误处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中间件错误处理进阶",
+    "description": "中间件错误处理进阶",
+    "slug": "中间件错误处理进阶"
   },
   {
     "id": "nd-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "数据库CRUD"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据库CRUD综合",
+    "description": "数据库CRUD综合",
+    "slug": "数据库crud综合"
   },
   {
     "id": "nd-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "登录JWT"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "登录JWT综合",
+    "description": "登录JWT综合",
+    "slug": "登录jwt综合"
   },
   {
     "id": "nd-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "测试日志"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试日志综合",
+    "description": "测试日志综合",
+    "slug": "测试日志综合"
   },
   {
     "id": "nd-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战综合",
+    "description": "项目实战综合",
+    "slug": "项目实战综合"
   },
   {
     "id": "nd-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "部署面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "部署面试综合",
+    "description": "部署面试综合",
+    "slug": "部署面试综合"
   },
   {
     "id": "nd-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门综合",
+    "description": "Node入门综合",
+    "slug": "node入门综合"
   },
   {
     "id": "nd-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构综合",
+    "description": "npm与项目结构综合",
+    "slug": "npm与项目结构综合"
   },
   {
     "id": "nd-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "模块系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块系统综合",
+    "description": "模块系统综合",
+    "slug": "模块系统综合"
   },
   {
     "id": "nd-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "异步编程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "异步编程综合",
+    "description": "异步编程综合",
+    "slug": "异步编程综合"
   },
   {
     "id": "nd-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "文件系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统综合",
+    "description": "文件系统综合",
+    "slug": "文件系统综合"
   },
   {
     "id": "nd-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "HTTP基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HTTP基础综合",
+    "description": "HTTP基础综合",
+    "slug": "http基础综合"
   },
   {
     "id": "nd-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "Express入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Express入门综合",
+    "description": "Express入门综合",
+    "slug": "express入门综合"
   },
   {
     "id": "nd-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "请求响应REST"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "请求响应REST综合",
+    "description": "请求响应REST综合",
+    "slug": "请求响应rest综合"
   },
   {
     "id": "nd-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "中间件错误处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中间件错误处理综合",
+    "description": "中间件错误处理综合",
+    "slug": "中间件错误处理综合"
   },
   {
     "id": "nd-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "数据库CRUD"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据库CRUD综合",
+    "description": "数据库CRUD综合",
+    "slug": "数据库crud综合"
   },
   {
     "id": "nd-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "登录JWT"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "登录JWT综合",
+    "description": "登录JWT综合",
+    "slug": "登录jwt综合"
   },
   {
     "id": "nd-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "测试日志"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试日志综合",
+    "description": "测试日志综合",
+    "slug": "测试日志综合"
   },
   {
     "id": "nd-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战综合",
+    "description": "项目实战综合",
+    "slug": "项目实战综合"
   },
   {
     "id": "nd-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "部署面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "部署面试综合",
+    "description": "部署面试综合",
+    "slug": "部署面试综合"
   },
   {
     "id": "nd-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门综合",
+    "description": "Node入门综合",
+    "slug": "node入门综合"
   },
   {
     "id": "nd-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构综合",
+    "description": "npm与项目结构综合",
+    "slug": "npm与项目结构综合"
   },
   {
     "id": "nd-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "模块系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块系统综合",
+    "description": "模块系统综合",
+    "slug": "模块系统综合"
   },
   {
     "id": "nd-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "异步编程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "异步编程综合",
+    "description": "异步编程综合",
+    "slug": "异步编程综合"
   },
   {
     "id": "nd-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "文件系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统综合",
+    "description": "文件系统综合",
+    "slug": "文件系统综合"
   },
   {
     "id": "nd-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "HTTP基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "HTTP基础综合",
+    "description": "HTTP基础综合",
+    "slug": "http基础综合"
   },
   {
     "id": "nd-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "Express入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Express入门综合",
+    "description": "Express入门综合",
+    "slug": "express入门综合"
   },
   {
     "id": "nd-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "请求响应REST"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "请求响应REST综合",
+    "description": "请求响应REST综合",
+    "slug": "请求响应rest综合"
   },
   {
     "id": "nd-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "中间件错误处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "中间件错误处理综合",
+    "description": "中间件错误处理综合",
+    "slug": "中间件错误处理综合"
   },
   {
     "id": "nd-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "数据库CRUD"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据库CRUD综合",
+    "description": "数据库CRUD综合",
+    "slug": "数据库crud综合"
   },
   {
     "id": "nd-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "登录JWT"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "登录JWT综合",
+    "description": "登录JWT综合",
+    "slug": "登录jwt综合"
   },
   {
     "id": "nd-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "测试日志"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "测试日志综合",
+    "description": "测试日志综合",
+    "slug": "测试日志综合"
   },
   {
     "id": "nd-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战综合",
+    "description": "项目实战综合",
+    "slug": "项目实战综合"
   },
   {
     "id": "nd-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "部署面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "部署面试综合",
+    "description": "部署面试综合",
+    "slug": "部署面试综合"
   },
   {
     "id": "nd-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "Node入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Node入门综合",
+    "description": "Node入门综合",
+    "slug": "node入门综合"
   },
   {
     "id": "nd-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "npm与项目结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "npm与项目结构综合",
+    "description": "npm与项目结构综合",
+    "slug": "npm与项目结构综合"
   }
 ]
