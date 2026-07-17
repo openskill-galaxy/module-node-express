@@ -1,578 +1,81 @@
 [
   {
-    "id": "nd-route-01",
-    "slug": "3天Node入门",
-    "title": "3天Node入门",
-    "description": "3天Node入门",
-    "summary": "3天Node入门",
-    "targetUser": "入门",
-    "durationDays": 3,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
+    "id": "mod-node-express-route-1",
+    "slug": "professional-path",
+    "title": "Node.js 与 Express 后端开发 专业级成长路线",
+    "summary": "带您由浅入深、由原理到实战系统通关 Node.js 与 Express 后端开发 核心要点。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Node.js 与 Express 后端开发 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-node-express-c-1",
+        "lessonId": "mod-node-express-l-1"
+      },
+      {
+        "order": 2,
+        "title": "Node.js 与 Express 后端开发 配置文件覆盖与属性解析",
+        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "courseId": "mod-node-express-c-1",
+        "lessonId": "mod-node-express-l-2"
+      },
+      {
+        "order": 3,
+        "title": "Node.js 与 Express 后端开发 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-node-express-c-2",
+        "lessonId": "mod-node-express-l-3"
+      },
+      {
+        "order": 4,
+        "title": "Node.js 与 Express 后端开发 核心控制器与数据校验机制",
+        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "courseId": "mod-node-express-c-2",
+        "lessonId": "mod-node-express-l-4"
+      },
+      {
+        "order": 5,
+        "title": "Node.js 与 Express 后端开发 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-node-express-c-3",
+        "lessonId": "mod-node-express-l-5"
+      },
+      {
+        "order": 6,
+        "title": "Node.js 与 Express 后端开发 可观测性日志与分布式链路监控",
+        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "courseId": "mod-node-express-c-3",
+        "lessonId": "mod-node-express-l-6"
+      }
     ]
   },
   {
-    "id": "nd-route-02",
-    "slug": "7天Express",
-    "title": "7天Express",
-    "description": "7天Express",
-    "summary": "7天Express",
-    "targetUser": "Express",
-    "durationDays": 7,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-03",
-    "slug": "补1",
-    "title": "补1",
-    "description": "补1",
-    "summary": "补1",
-    "targetUser": "p1",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-04",
-    "slug": "补2",
-    "title": "补2",
-    "description": "补2",
-    "summary": "补2",
-    "targetUser": "p2",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-05",
-    "slug": "补3",
-    "title": "补3",
-    "description": "补3",
-    "summary": "补3",
-    "targetUser": "p3",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-06",
-    "slug": "补4",
-    "title": "补4",
-    "description": "补4",
-    "summary": "补4",
-    "targetUser": "p4",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-07",
-    "slug": "补5",
-    "title": "补5",
-    "description": "补5",
-    "summary": "补5",
-    "targetUser": "p5",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-08",
-    "slug": "补6",
-    "title": "补6",
-    "description": "补6",
-    "summary": "补6",
-    "targetUser": "p6",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-09",
-    "slug": "补7",
-    "title": "补7",
-    "description": "补7",
-    "summary": "补7",
-    "targetUser": "p7",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-10",
-    "slug": "补8",
-    "title": "补8",
-    "description": "补8",
-    "summary": "补8",
-    "targetUser": "p8",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-11",
-    "slug": "补9",
-    "title": "补9",
-    "description": "补9",
-    "summary": "补9",
-    "targetUser": "p9",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-12",
-    "slug": "补10",
-    "title": "补10",
-    "description": "补10",
-    "summary": "补10",
-    "targetUser": "p10",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-13",
-    "slug": "补11",
-    "title": "补11",
-    "description": "补11",
-    "summary": "补11",
-    "targetUser": "p11",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-14",
-    "slug": "补12",
-    "title": "补12",
-    "description": "补12",
-    "summary": "补12",
-    "targetUser": "p12",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-15",
-    "slug": "补13",
-    "title": "补13",
-    "description": "补13",
-    "summary": "补13",
-    "targetUser": "p13",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-16",
-    "slug": "补14",
-    "title": "补14",
-    "description": "补14",
-    "summary": "补14",
-    "targetUser": "p14",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-17",
-    "slug": "补15",
-    "title": "补15",
-    "description": "补15",
-    "summary": "补15",
-    "targetUser": "p15",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-18",
-    "slug": "补16",
-    "title": "补16",
-    "description": "补16",
-    "summary": "补16",
-    "targetUser": "p16",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-19",
-    "slug": "补17",
-    "title": "补17",
-    "description": "补17",
-    "summary": "补17",
-    "targetUser": "p17",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-20",
-    "slug": "补18",
-    "title": "补18",
-    "description": "补18",
-    "summary": "补18",
-    "targetUser": "p18",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-21",
-    "slug": "补19",
-    "title": "补19",
-    "description": "补19",
-    "summary": "补19",
-    "targetUser": "p19",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-22",
-    "slug": "补20",
-    "title": "补20",
-    "description": "补20",
-    "summary": "补20",
-    "targetUser": "p20",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-23",
-    "slug": "补21",
-    "title": "补21",
-    "description": "补21",
-    "summary": "补21",
-    "targetUser": "p21",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-24",
-    "slug": "补22",
-    "title": "补22",
-    "description": "补22",
-    "summary": "补22",
-    "targetUser": "p22",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-25",
-    "slug": "补23",
-    "title": "补23",
-    "description": "补23",
-    "summary": "补23",
-    "targetUser": "p23",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-26",
-    "slug": "补24",
-    "title": "补24",
-    "description": "补24",
-    "summary": "补24",
-    "targetUser": "p24",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-27",
-    "slug": "补25",
-    "title": "补25",
-    "description": "补25",
-    "summary": "补25",
-    "targetUser": "p25",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-28",
-    "slug": "补26",
-    "title": "补26",
-    "description": "补26",
-    "summary": "补26",
-    "targetUser": "p26",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-29",
-    "slug": "补27",
-    "title": "补27",
-    "description": "补27",
-    "summary": "补27",
-    "targetUser": "p27",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-30",
-    "slug": "补28",
-    "title": "补28",
-    "description": "补28",
-    "summary": "补28",
-    "targetUser": "p28",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-31",
-    "slug": "补29",
-    "title": "补29",
-    "description": "补29",
-    "summary": "补29",
-    "targetUser": "p29",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-32",
-    "slug": "补30",
-    "title": "补30",
-    "description": "补30",
-    "summary": "补30",
-    "targetUser": "p30",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-33",
-    "slug": "补31",
-    "title": "补31",
-    "description": "补31",
-    "summary": "补31",
-    "targetUser": "p31",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-34",
-    "slug": "补32",
-    "title": "补32",
-    "description": "补32",
-    "summary": "补32",
-    "targetUser": "p32",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-35",
-    "slug": "补33",
-    "title": "补33",
-    "description": "补33",
-    "summary": "补33",
-    "targetUser": "p33",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "nd-route-36",
-    "slug": "补34",
-    "title": "补34",
-    "description": "补34",
-    "summary": "补34",
-    "targetUser": "p34",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
+    "id": "mod-node-express-route-2",
+    "slug": "quick-start-path",
+    "title": "Node.js 与 Express 后端开发 快速通关极速路线",
+    "summary": "专为快速开发或面试突击设计的速成学习路径。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "Node.js 与 Express 后端开发 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-node-express-c-1",
+        "lessonId": "mod-node-express-l-1"
+      },
+      {
+        "order": 3,
+        "title": "Node.js 与 Express 后端开发 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-node-express-c-2",
+        "lessonId": "mod-node-express-l-3"
+      },
+      {
+        "order": 5,
+        "title": "Node.js 与 Express 后端开发 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-node-express-c-3",
+        "lessonId": "mod-node-express-l-5"
+      }
     ]
   }
 ]
