@@ -1,502 +1,71 @@
 [
   {
-    "id": "nd-course-01",
+    "id": "mod-node-express-c-1",
+    "title": "Node.js 与 Express 后端开发 架构原理与初始化",
+    "slug": "course-1",
+    "summary": "深度探索 Node.js 与 Express 后端开发 的设计理念、运行架构以及初始化配置引导。",
     "order": 1,
-    "slug": "NodeJs入门与后端开发路线",
-    "title": "Node.js 入门与后端开发路线",
-    "description": "Node概述、运行时、V8引擎、学习路线。",
-    "estimatedHours": 4,
     "difficulty": "easy",
-    "tags": [
-      "Node.js 入门与后端开发路线"
-    ],
-    "lessonIds": [
-      "nd-lesson-001",
-      "nd-lesson-002",
-      "nd-lesson-003"
-    ],
-    "totalLessons": 3,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "nd-lesson-001",
-      "nd-lesson-002",
-      "nd-lesson-003"
+      "mod-node-express-l-1",
+      "mod-node-express-l-2"
     ],
-    "summary": "Node概述、运行时、V8引擎、学习路线。"
+    "tags": [
+      "Node.js",
+      "Express",
+      "后端开发",
+      "REST API",
+      "JWT",
+      "npm",
+      "异步编程",
+      "全栈开发"
+    ]
   },
   {
-    "id": "nd-course-02",
+    "id": "mod-node-express-c-2",
+    "title": "Node.js 与 Express 后端开发 核心机制与开发实战",
+    "slug": "course-2",
+    "summary": "掌握 Node.js 与 Express 后端开发 的核心组件、API 接口调用以及本地开发调试。",
     "order": 2,
-    "slug": "NodeJs运行npm与项目结构",
-    "title": "Node.js 运行时、npm 与项目结构",
-    "description": "npm、package.json、scripts、npx、项目结构。",
-    "estimatedHours": 6,
     "difficulty": "easy",
-    "tags": [
-      "Node.js 运行时、npm 与项目结构"
-    ],
-    "lessonIds": [
-      "nd-lesson-004",
-      "nd-lesson-005",
-      "nd-lesson-006",
-      "nd-lesson-007"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "nd-lesson-004",
-      "nd-lesson-005",
-      "nd-lesson-006",
-      "nd-lesson-007"
+      "mod-node-express-l-3",
+      "mod-node-express-l-4"
     ],
-    "summary": "npm、package.json、scripts、npx、项目结构。"
+    "tags": [
+      "Node.js",
+      "Express",
+      "后端开发",
+      "REST API",
+      "JWT",
+      "npm",
+      "异步编程",
+      "全栈开发"
+    ]
   },
   {
-    "id": "nd-course-03",
+    "id": "mod-node-express-c-3",
+    "title": "Node.js 与 Express 后端开发 高级优化与生产部署",
+    "slug": "course-3",
+    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
     "order": 3,
-    "slug": "CommonJSESM与模块系统",
-    "title": "CommonJS、ESM 与模块系统",
-    "description": "require/module.exports、import/export、模块系统。",
-    "estimatedHours": 6,
     "difficulty": "easy",
-    "tags": [
-      "CommonJS、ESM 与模块系统"
-    ],
-    "lessonIds": [
-      "nd-lesson-008",
-      "nd-lesson-009",
-      "nd-lesson-010",
-      "nd-lesson-011"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "nd-lesson-008",
-      "nd-lesson-009",
-      "nd-lesson-010",
-      "nd-lesson-011"
+      "mod-node-express-l-5",
+      "mod-node-express-l-6"
     ],
-    "summary": "require/module.exports、import/export、模块系统。"
-  },
-  {
-    "id": "nd-course-04",
-    "order": 4,
-    "slug": "异步编程Promise与asyncawait",
-    "title": "异步编程、Promise 与 async/await",
-    "description": "回调、Promise、async/await、事件循环。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
     "tags": [
-      "异步编程、Promise 与 async/await"
-    ],
-    "lessonIds": [
-      "nd-lesson-012",
-      "nd-lesson-013",
-      "nd-lesson-014",
-      "nd-lesson-015"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-012",
-      "nd-lesson-013",
-      "nd-lesson-014",
-      "nd-lesson-015"
-    ],
-    "summary": "回调、Promise、async/await、事件循环。"
-  },
-  {
-    "id": "nd-course-05",
-    "order": 5,
-    "slug": "文件系统路径与环境变量",
-    "title": "文件系统、路径与环境变量",
-    "description": "fs/path/process/dotenv/env配置。",
-    "estimatedHours": 8,
-    "difficulty": "medium",
-    "tags": [
-      "文件系统、路径与环境变量"
-    ],
-    "lessonIds": [
-      "nd-lesson-016",
-      "nd-lesson-017",
-      "nd-lesson-018",
-      "nd-lesson-019",
-      "nd-lesson-020"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-016",
-      "nd-lesson-017",
-      "nd-lesson-018",
-      "nd-lesson-019",
-      "nd-lesson-020"
-    ],
-    "summary": "fs/path/process/dotenv/env配置。"
-  },
-  {
-    "id": "nd-course-06",
-    "order": 6,
-    "slug": "HTTP基础与Node原生服务",
-    "title": "HTTP 基础与 Node 原生服务",
-    "description": "http模块、request/response、路由基础。",
-    "estimatedHours": 8,
-    "difficulty": "medium",
-    "tags": [
-      "HTTP 基础与 Node 原生服务"
-    ],
-    "lessonIds": [
-      "nd-lesson-021",
-      "nd-lesson-022",
-      "nd-lesson-023",
-      "nd-lesson-024"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-021",
-      "nd-lesson-022",
-      "nd-lesson-023",
-      "nd-lesson-024"
-    ],
-    "summary": "http模块、request/response、路由基础。"
-  },
-  {
-    "id": "nd-course-07",
-    "order": 7,
-    "slug": "Express入门与路由",
-    "title": "Express 入门与路由",
-    "description": "Express安装、app、router、路由方法。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "Express 入门与路由"
-    ],
-    "lessonIds": [
-      "nd-lesson-025",
-      "nd-lesson-026",
-      "nd-lesson-027",
-      "nd-lesson-028"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-025",
-      "nd-lesson-026",
-      "nd-lesson-027",
-      "nd-lesson-028"
-    ],
-    "summary": "Express安装、app、router、路由方法。"
-  },
-  {
-    "id": "nd-course-08",
-    "order": 8,
-    "slug": "请求参数响应对象与RESTAPI",
-    "title": "请求参数、响应对象与 REST API",
-    "description": "params/query/body、JSON响应、RESTful设计。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "请求参数、响应对象与 REST API"
-    ],
-    "lessonIds": [
-      "nd-lesson-029",
-      "nd-lesson-030",
-      "nd-lesson-031",
-      "nd-lesson-032",
-      "nd-lesson-033"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-029",
-      "nd-lesson-030",
-      "nd-lesson-031",
-      "nd-lesson-032",
-      "nd-lesson-033"
-    ],
-    "summary": "params/query/body、JSON响应、RESTful设计。"
-  },
-  {
-    "id": "nd-course-09",
-    "order": 9,
-    "slug": "中间件机制与错误处理",
-    "title": "中间件机制与错误处理",
-    "description": "中间件概念、应用级中间件、错误处理、第三方中间件。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "中间件机制与错误处理"
-    ],
-    "lessonIds": [
-      "nd-lesson-034",
-      "nd-lesson-035",
-      "nd-lesson-036",
-      "nd-lesson-037",
-      "nd-lesson-038"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-034",
-      "nd-lesson-035",
-      "nd-lesson-036",
-      "nd-lesson-037",
-      "nd-lesson-038"
-    ],
-    "summary": "中间件概念、应用级中间件、错误处理、第三方中间件。"
-  },
-  {
-    "id": "nd-course-10",
-    "order": 10,
-    "slug": "数据库连接ORM与CRUD",
-    "title": "数据库连接、ORM 与 CRUD",
-    "description": "Prisma/Mongoose/Sequelize、CRUD操作、分页。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "数据库连接、ORM 与 CRUD"
-    ],
-    "lessonIds": [
-      "nd-lesson-039",
-      "nd-lesson-040",
-      "nd-lesson-041",
-      "nd-lesson-042",
-      "nd-lesson-043"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-039",
-      "nd-lesson-040",
-      "nd-lesson-041",
-      "nd-lesson-042",
-      "nd-lesson-043"
-    ],
-    "summary": "Prisma/Mongoose/Sequelize、CRUD操作、分页。"
-  },
-  {
-    "id": "nd-course-11",
-    "order": 11,
-    "slug": "登录认证JWT与权限基础",
-    "title": "登录认证、JWT 与权限基础",
-    "description": "JWT生成验证、bcrypt密码、中间件鉴权。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "登录认证、JWT 与权限基础"
-    ],
-    "lessonIds": [
-      "nd-lesson-044",
-      "nd-lesson-045",
-      "nd-lesson-046",
-      "nd-lesson-047",
-      "nd-lesson-048"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-044",
-      "nd-lesson-045",
-      "nd-lesson-046",
-      "nd-lesson-047",
-      "nd-lesson-048"
-    ],
-    "summary": "JWT生成验证、bcrypt密码、中间件鉴权。"
-  },
-  {
-    "id": "nd-course-12",
-    "order": 12,
-    "slug": "接口测试日志与配置管理",
-    "title": "接口测试、日志与配置管理",
-    "description": "Jest/Supertest测试、Morgan/Winston日志、多环境配置。",
-    "estimatedHours": 8,
-    "difficulty": "hard",
-    "tags": [
-      "接口测试、日志与配置管理"
-    ],
-    "lessonIds": [
-      "nd-lesson-049",
-      "nd-lesson-050",
-      "nd-lesson-051",
-      "nd-lesson-052"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-049",
-      "nd-lesson-050",
-      "nd-lesson-051",
-      "nd-lesson-052"
-    ],
-    "summary": "Jest/Supertest测试、Morgan/Winston日志、多环境配置。"
-  },
-  {
-    "id": "nd-course-13",
-    "order": 13,
-    "slug": "Node后端项目实战",
-    "title": "Node 后端项目实战",
-    "description": "REST API项目、用户系统、Todo API、博客API。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "Node 后端项目实战"
-    ],
-    "lessonIds": [
-      "nd-lesson-053",
-      "nd-lesson-054",
-      "nd-lesson-055",
-      "nd-lesson-056"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-053",
-      "nd-lesson-054",
-      "nd-lesson-055",
-      "nd-lesson-056"
-    ],
-    "summary": "REST API项目、用户系统、Todo API、博客API。"
-  },
-  {
-    "id": "nd-course-14",
-    "order": 14,
-    "slug": "部署面试与全栈项目训练",
-    "title": "部署、面试与全栈项目训练",
-    "description": "Docker部署、CI/CD、面试题、全栈案例。",
-    "estimatedHours": 8,
-    "difficulty": "hard",
-    "tags": [
-      "部署、面试与全栈项目训练"
-    ],
-    "lessonIds": [
-      "nd-lesson-057",
-      "nd-lesson-058",
-      "nd-lesson-059",
-      "nd-lesson-060",
-      "nd-lesson-061"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握Node平台",
-      "能构建Express API",
-      "理解异步编程",
-      "具备后端开发能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "nd-lesson-057",
-      "nd-lesson-058",
-      "nd-lesson-059",
-      "nd-lesson-060",
-      "nd-lesson-061"
-    ],
-    "summary": "Docker部署、CI/CD、面试题、全栈案例。"
+      "Node.js",
+      "Express",
+      "后端开发",
+      "REST API",
+      "JWT",
+      "npm",
+      "异步编程",
+      "全栈开发"
+    ]
   }
 ]
