@@ -1,9 +1,9 @@
 [
   {
     "id": "mod-node-express-exam-1",
-    "slug": "final-exam",
-    "title": "Node.js 与 Express 后端开发 核心期末综合自测",
-    "summary": "全面检验您对 Node.js 与 Express 后端开发 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "Node.js 与 Express 基础入门测验",
+    "summary": "覆盖 Node.js 运行时、Express 路由与中间件、npm 依赖管理等入门知识。",
     "difficulty": "easy",
     "questionIds": [
       "mod-node-express-q-1",
@@ -11,21 +11,55 @@
       "mod-node-express-q-3",
       "mod-node-express-q-4",
       "mod-node-express-q-5",
-      "mod-node-express-q-6"
+      "mod-node-express-q-15",
+      "mod-node-express-q-19",
+      "mod-node-express-q-20",
+      "mod-node-express-q-9",
+      "mod-node-express-q-12"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-node-express-exam-2",
-    "slug": "basic-exam",
-    "title": "Node.js 与 Express 后端开发 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "Node.js 与 Express 进阶强化测验",
+    "summary": "聚焦事件循环、JWT 认证、流式处理、模块系统与安全实践等进阶主题。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-node-express-q-1",
-      "mod-node-express-q-2",
-      "mod-node-express-q-3"
+      "mod-node-express-q-6",
+      "mod-node-express-q-7",
+      "mod-node-express-q-8",
+      "mod-node-express-q-10",
+      "mod-node-express-q-11",
+      "mod-node-express-q-16",
+      "mod-node-express-q-17",
+      "mod-node-express-q-21",
+      "mod-node-express-q-22",
+      "mod-node-express-q-23"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-node-express-exam-3",
+    "slug": "final-exam",
+    "title": "Node.js 与 Express 综合模拟考试",
+    "summary": "综合考查事件循环底层机制、多进程扩展、性能与内存排查等生产级能力。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-node-express-q-6",
+      "mod-node-express-q-7",
+      "mod-node-express-q-10",
+      "mod-node-express-q-13",
+      "mod-node-express-q-14",
+      "mod-node-express-q-16",
+      "mod-node-express-q-18",
+      "mod-node-express-q-21",
+      "mod-node-express-q-22",
+      "mod-node-express-q-23",
+      "mod-node-express-q-24",
+      "mod-node-express-q-8"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

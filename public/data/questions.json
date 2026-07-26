@@ -1,217 +1,774 @@
 [
   {
     "id": "mod-node-express-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [Node.js 与 Express 后端开发] 的过程里，关于“Node.js 与 Express 后端开发 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "Node.js 的运行时核心是基于哪个 JavaScript 引擎构建的？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "SpiderMonkey"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "V8"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "JavaScriptCore"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "Chakra"
       }
     ],
     "answer": [
-      "0"
+      "B"
     ],
-    "explanation": "关于“Node.js 与 Express 后端开发 环境依赖搭建与运行机制”的正确答案为 A。解析：在 Node.js 与 Express 后端开发 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "Node.js 基于 Google 的 V8 引擎执行 JavaScript，并结合 libuv 提供事件循环与异步 I/O。SpiderMonkey 是 Firefox 的引擎，JavaScriptCore 用于 Safari/Bun，Chakra 曾用于旧版 Edge。",
     "tags": [
-      "Node.js 与 Express 后端开发",
-      "基础考点"
+      "Node.js",
+      "运行时"
     ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-node-express-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [Node.js 与 Express 后端开发] 的过程里，关于“Node.js 与 Express 后端开发 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "在 Express 中，用于处理 GET /users 请求的正确写法是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "app.fetch('/users', handler)"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "app.get('/users', handler)"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "app.route.get('users', handler)"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "app.listen('/users', handler)"
       }
     ],
     "answer": [
-      "0"
+      "B"
     ],
-    "explanation": "关于“Node.js 与 Express 后端开发 配置文件覆盖与属性解析”的正确答案为 A。解析：在 Node.js 与 Express 后端开发 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "Express 用 app.get(path, handler) 注册 GET 路由，同理有 app.post/put/delete 等。app.listen 用于启动服务器监听端口，不是注册路由。",
     "tags": [
-      "Node.js 与 Express 后端开发",
-      "基础考点"
+      "Express",
+      "路由"
     ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-node-express-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [Node.js 与 Express 后端开发] 的过程里，关于“Node.js 与 Express 后端开发 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "package.json 中 dependencies 与 devDependencies 的区别是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "没有区别，只是分类习惯"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "devDependencies 是仅开发/构建阶段需要的依赖，生产安装可用 npm install --omit=dev 跳过"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "dependencies 只在本地生效，devDependencies 会发布"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "devDependencies 中的包版本不允许使用 ^ 前缀"
       }
     ],
     "answer": [
-      "0"
+      "B"
     ],
-    "explanation": "关于“Node.js 与 Express 后端开发 API 接口规范与数据通信”的正确答案为 A。解析：在 Node.js 与 Express 后端开发 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "dependencies 是运行时必需依赖；devDependencies 只在开发、测试、构建时需要（如 eslint、nodemon），生产环境安装时可通过 --omit=dev（旧版 --production）跳过以减小体积。",
     "tags": [
-      "Node.js 与 Express 后端开发",
-      "基础考点"
+      "npm",
+      "依赖管理"
     ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-node-express-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [Node.js 与 Express 后端开发] 的过程里，关于“Node.js 与 Express 后端开发 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "Express 中间件函数的标准签名是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "(req, res) => {} 且必须返回 Promise"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "(req, res, next) => {}，调用 next() 将控制权交给下一个中间件"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "(request, response, callback, error) => {}"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "(ctx, next) => {}"
       }
     ],
     "answer": [
-      "0"
+      "B"
     ],
-    "explanation": "关于“Node.js 与 Express 后端开发 核心控制器与数据校验机制”的正确答案为 A。解析：在 Node.js 与 Express 后端开发 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "Express 普通中间件签名为 (req, res, next)，处理完后调用 next() 继续链路，或直接响应终止链路。(ctx, next) 是 Koa 的风格；四参数 (err, req, res, next) 是 Express 的错误处理中间件。",
     "tags": [
-      "Node.js 与 Express 后端开发",
-      "基础考点"
+      "Express",
+      "中间件"
     ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-node-express-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [Node.js 与 Express 后端开发] 的过程里，关于“Node.js 与 Express 后端开发 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "要让 Express 能解析请求体中的 JSON 数据，应使用哪个内置中间件？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "app.use(express.static())"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "app.use(express.json())"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "app.use(express.raw())"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "app.use(express.text())"
       }
     ],
     "answer": [
-      "0"
+      "B"
     ],
-    "explanation": "关于“Node.js 与 Express 后端开发 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 Node.js 与 Express 后端开发 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "express.json()（基于 body-parser）解析 Content-Type 为 application/json 的请求体并挂到 req.body。static 用于静态文件，raw/text 分别解析 Buffer 和纯文本。",
     "tags": [
-      "Node.js 与 Express 后端开发",
-      "基础考点"
+      "Express",
+      "中间件"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-6",
+    "slug": "question-6",
+    "type": "single",
+    "stem": "以下代码的输出顺序是？\n\nsetTimeout(() => console.log('timeout'), 0);\nsetImmediate(() => console.log('immediate'));\nprocess.nextTick(() => console.log('nextTick'));\nPromise.resolve().then(() => console.log('promise'));\nconsole.log('sync');",
+    "options": [
+      {
+        "key": "A",
+        "text": "sync → nextTick → promise → timeout/immediate"
+      },
+      {
+        "key": "B",
+        "text": "sync → promise → nextTick → timeout → immediate"
+      },
+      {
+        "key": "C",
+        "text": "nextTick → sync → promise → immediate → timeout"
+      },
+      {
+        "key": "D",
+        "text": "sync → timeout → immediate → nextTick → promise"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "同步代码最先执行；然后清空微任务：process.nextTick 队列优先于 Promise 微任务；随后进入事件循环宏任务阶段，setTimeout(0) 与 setImmediate 在主模块中的先后顺序不确定（受定时器精度影响）。",
+    "tags": [
+      "事件循环",
+      "异步编程"
     ],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-node-express-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "关于 JWT（JSON Web Token）认证，下列说法正确的是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "JWT 的 payload 是加密的，客户端无法读取"
+      },
+      {
+        "key": "B",
+        "text": "服务器需要在数据库中保存每个 JWT 才能校验"
+      },
+      {
+        "key": "C",
+        "text": "JWT 由 header、payload、signature 三部分组成，签名用于防篡改"
+      },
+      {
+        "key": "D",
+        "text": "JWT 一旦签发可以由服务器随时单方面修改其内容"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "JWT 三段式结构以 . 分隔，前两段仅是 Base64Url 编码（可解码读取，不应放敏感明文），签名基于密钥保证不可篡改。JWT 是无状态的，服务器无需存储；签发后内容不可改，只能等过期或借助黑名单机制失效。",
+    "tags": [
+      "JWT",
+      "认证"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "Express 中错误处理中间件与普通中间件的区别是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "错误处理中间件必须注册在所有路由之前"
+      },
+      {
+        "key": "B",
+        "text": "错误处理中间件的签名是 (err, req, res, next) 四个参数"
+      },
+      {
+        "key": "C",
+        "text": "普通中间件不能调用 next(err)"
+      },
+      {
+        "key": "D",
+        "text": "Express 无法集中处理异步路由中的错误"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "Express 通过参数个数识别错误处理中间件：四参数 (err, req, res, next)，且通常注册在所有路由之后。任何中间件调用 next(err) 都会跳过后续普通中间件直达错误处理器。Express 5 已能自动捕获 async 函数中 reject 的错误（Express 4 需手动 catch 后 next(err)）。",
+    "tags": [
+      "Express",
+      "错误处理"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "RESTful API 设计中，更新资源的部分字段最符合语义的 HTTP 方法是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "GET"
+      },
+      {
+        "key": "B",
+        "text": "POST"
+      },
+      {
+        "key": "C",
+        "text": "PUT"
+      },
+      {
+        "key": "D",
+        "text": "PATCH"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "PATCH 表示对资源进行部分更新；PUT 语义是用完整表述替换整个资源且要求幂等；POST 常用于创建；GET 是安全的只读操作。",
+    "tags": [
+      "REST API",
+      "HTTP"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "Node.js 中读取大文件并通过 HTTP 返回，最节省内存的方式是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "fs.readFileSync 读入内存后 res.end(data)"
+      },
+      {
+        "key": "B",
+        "text": "fs.readFile 回调中 res.end(data)"
+      },
+      {
+        "key": "C",
+        "text": "fs.createReadStream(file).pipe(res) 流式传输"
+      },
+      {
+        "key": "D",
+        "text": "先把文件转成 Base64 字符串再分段发送"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "createReadStream 配合 pipe 以小块（默认 64KB）边读边发，内存占用恒定且自带背压处理。readFile/readFileSync 会把整个文件载入内存，大文件易导致内存暴涨；Base64 还会使体积增大约 33%。",
+    "tags": [
+      "Stream",
+      "性能"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "npm 中 package-lock.json 的主要作用是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "记录项目的启动脚本"
+      },
+      {
+        "key": "B",
+        "text": "锁定依赖树中每个包的确切版本与来源，保证安装结果可复现"
+      },
+      {
+        "key": "C",
+        "text": "缓存已下载的包内容以加速安装"
+      },
+      {
+        "key": "D",
+        "text": "声明项目对 Node 版本的要求"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "package-lock.json 记录整棵依赖树的精确版本、下载地址和完整性哈希，使不同机器、不同时间 npm ci/install 得到一致的 node_modules。缓存由 npm cache 负责；Node 版本要求写在 package.json 的 engines 字段。",
+    "tags": [
+      "npm",
+      "依赖管理"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "Express 应用中，app.use('/api', routerA) 和 routerA 内部 router.get('/users', h) 组合后，h 实际匹配的完整路径是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "/users"
+      },
+      {
+        "key": "B",
+        "text": "/api"
+      },
+      {
+        "key": "C",
+        "text": "/api/users"
+      },
+      {
+        "key": "D",
+        "text": "/routerA/users"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "app.use 的挂载路径是前缀，Router 内部路径会拼接在其后，所以最终匹配 GET /api/users。这是 Express 模块化路由的常见组织方式。",
+    "tags": [
+      "Express",
+      "路由"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "一个 Express 服务在压测时 QPS 上不去，CPU 单核跑满而其余核空闲。最合理的第一步优化是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "把所有 require 改成动态 import"
+      },
+      {
+        "key": "B",
+        "text": "使用 cluster 模块或 PM2 集群模式按 CPU 核数启动多个进程"
+      },
+      {
+        "key": "C",
+        "text": "把 Node.js 升级到最新版本即可解决"
+      },
+      {
+        "key": "D",
+        "text": "将所有同步代码包在 setTimeout 中"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "Node.js 的 JS 执行是单线程的，单进程只能吃满一个核。cluster/PM2 cluster 模式按核数 fork 多个 worker 共享端口，可线性提升吞吐。动态 import 与 setTimeout 包裹并不能利用多核；升级版本不解决单线程模型限制。",
+    "tags": [
+      "性能",
+      "cluster",
+      "部署"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-node-express-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "以下代码存在的最主要问题是？\n\napp.get('/report', async (req, res) => {\n  const rows = await db.query('SELECT ...');\n  const result = heavyComputeSync(rows); // 同步计算 2 秒\n  res.json(result);\n});",
+    "options": [
+      {
+        "key": "A",
+        "text": "await 不能用于路由处理函数"
+      },
+      {
+        "key": "B",
+        "text": "同步重计算会阻塞事件循环 2 秒，期间所有其他请求都无法被处理"
+      },
+      {
+        "key": "C",
+        "text": "db.query 的结果不能直接 res.json"
+      },
+      {
+        "key": "D",
+        "text": "async 函数会导致内存泄漏"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "Node.js 事件循环是单线程的，heavyComputeSync 运行期间无法处理任何其他连接的回调，表现为全站卡顿。CPU 密集任务应交给 worker_threads、子进程或拆分为分片异步执行。A、C、D 均不成立。",
+    "tags": [
+      "事件循环",
+      "性能",
+      "worker_threads"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-node-express-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "下列哪些是 Node.js 的内置核心模块？",
+    "options": [
+      {
+        "key": "A",
+        "text": "fs"
+      },
+      {
+        "key": "B",
+        "text": "path"
+      },
+      {
+        "key": "C",
+        "text": "http"
+      },
+      {
+        "key": "D",
+        "text": "express"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "fs（文件系统）、path（路径处理）、http（HTTP 服务）都是 Node.js 内置模块，无需安装。express 是第三方框架，需要 npm install。",
+    "tags": [
+      "Node.js",
+      "核心模块"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "关于 CommonJS 与 ES Module，下列说法正确的有哪些？",
+    "options": [
+      {
+        "key": "A",
+        "text": "CommonJS 使用 require/module.exports，加载是同步的"
+      },
+      {
+        "key": "B",
+        "text": "ESM 使用 import/export，支持静态分析和 tree-shaking"
+      },
+      {
+        "key": "C",
+        "text": "在 package.json 中设置 \"type\": \"module\" 后 .js 文件按 ESM 解析"
+      },
+      {
+        "key": "D",
+        "text": "CommonJS 的 require 可以在 ESM 文件中直接使用而无需任何处理"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "A、B、C 是两种模块体系的基本事实。ESM 文件中没有全局 require，需通过 module.createRequire 创建或改用 import；反之 CommonJS 也不能直接 import ESM（需动态 import()），故 D 错误。",
+    "tags": [
+      "模块系统",
+      "ESM"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "以下哪些措施有助于提升 Express 应用的安全性？",
+    "options": [
+      {
+        "key": "A",
+        "text": "使用 helmet 设置安全相关的 HTTP 响应头"
+      },
+      {
+        "key": "B",
+        "text": "对用户输入做校验与转义，防止 XSS 与注入"
+      },
+      {
+        "key": "C",
+        "text": "使用 express-rate-limit 等中间件限制请求频率"
+      },
+      {
+        "key": "D",
+        "text": "把 JWT 密钥硬编码在源码中方便部署"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "helmet、输入校验、限流都是标准安全实践。密钥硬编码进源码会随代码泄漏而失守，应放入环境变量或密钥管理服务，D 是反模式。",
+    "tags": [
+      "安全",
+      "Express"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "关于 Node.js 进程与事件循环的高级特性，下列说法正确的有哪些？",
+    "options": [
+      {
+        "key": "A",
+        "text": "libuv 线程池默认 4 个线程，处理 fs、dns.lookup、crypto 等任务，可用 UV_THREADPOOL_SIZE 调整"
+      },
+      {
+        "key": "B",
+        "text": "worker_threads 中的线程可通过 SharedArrayBuffer 共享内存"
+      },
+      {
+        "key": "C",
+        "text": "process.nextTick 回调在事件循环每个阶段切换前被清空，滥用会饿死 I/O"
+      },
+      {
+        "key": "D",
+        "text": "cluster 模块的多个 worker 之间默认共享同一份 JS 堆内存"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "A、B、C 均正确：线程池默认 4 线程可调；worker_threads 支持 SharedArrayBuffer/Atomics 共享内存；nextTick 优先级极高，递归调用会阻塞 I/O。cluster 的 worker 是独立进程，内存互相隔离，只能通过 IPC 通信，D 错误。",
+    "tags": [
+      "事件循环",
+      "worker_threads",
+      "cluster"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-node-express-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "Express 中间件的注册顺序会影响请求的处理流程，先注册的中间件先执行。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。Express 按 use/route 注册顺序依次匹配执行中间件链，因此日志、body 解析等通用中间件要注册在路由之前，错误处理中间件注册在最后。",
+    "tags": [
+      "Express",
+      "中间件"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "Node.js 适合 CPU 密集型任务，而不适合高并发 I/O 密集型场景。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误，说反了。Node.js 的事件驱动非阻塞 I/O 模型擅长高并发 I/O 密集场景（API 网关、实时应用）；CPU 密集任务会阻塞单线程的事件循环，需要借助 worker_threads 或多进程处理。",
+    "tags": [
+      "Node.js",
+      "适用场景"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-node-express-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "HTTP 响应已经通过 res.send() 发送后，再次调用 res.send() 会抛出 \"Cannot set headers after they are sent\" 错误。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。响应头一旦随首次响应发出就不能再修改，重复发送响应是常见 bug，多发生在忘记 return 或在回调与中间件中重复响应的场景。",
+    "tags": [
+      "Express",
+      "HTTP"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "npm ci 会先删除 node_modules，并严格按照 package-lock.json 安装，若 lock 文件与 package.json 冲突则直接报错。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。npm ci 专为 CI/CD 设计：清空 node_modules、完全依据 lock 文件安装、不会修改 lock 文件，遇到不一致直接失败，保证构建可复现。",
+    "tags": [
+      "npm",
+      "CI/CD"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-node-express-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "简述 Node.js 中回调地狱（Callback Hell）是什么，以及现代代码中主要的解决方案。",
+    "options": [],
+    "answer": [
+      "多层嵌套回调导致代码难以阅读维护，用Promise链式调用和async/await解决|回调层层嵌套形成金字塔结构，可用Promise、async/await或将回调封装为promisify解决"
+    ],
+    "explanation": "回调地狱指异步回调层层嵌套形成的金字塔代码，错误处理分散、可读性差。解决方案：用 Promise 链式调用扁平化；用 async/await 以同步风格书写异步逻辑；util.promisify 把回调 API 转为 Promise；合理拆分函数。",
+    "tags": [
+      "异步编程",
+      "Promise"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-node-express-c-2",
     "knowledge_points": [],
     "estimated_time": 5
   },
   {
-    "id": "mod-node-express-q-6",
-    "slug": "question-course-3-7",
-    "type": "single",
-    "stem": "在学习 [Node.js 与 Express 后端开发] 的过程里，关于“Node.js 与 Express 后端开发 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
-    "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
-    ],
+    "id": "mod-node-express-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "线上 Node.js 服务内存持续增长最终 OOM，请简述你的排查思路（至少包含工具与常见泄漏原因）。",
+    "options": [],
     "answer": [
-      "0"
+      "用heapdump/inspector抓堆快照对比，定位未释放引用；常见原因有全局缓存无上限、闭包引用、事件监听未移除、定时器未清理|监控内存曲线，--inspect配合Chrome DevTools拍堆快照做diff，检查全局变量缓存、事件监听器泄漏、未清理的定时器和闭包持有大对象"
     ],
-    "explanation": "关于“Node.js 与 Express 后端开发 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 Node.js 与 Express 后端开发 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "思路：先用 process.memoryUsage / 监控确认泄漏趋势；用 --inspect + Chrome DevTools 或 heapdump 在不同时间点抓堆快照做对比，找持续增长的对象及其引用链（Retainers）。常见原因：无上限的全局缓存/Map、事件监听器重复注册未 removeListener、setInterval 未清理、闭包长期持有大对象、日志或队列堆积。",
     "tags": [
-      "Node.js 与 Express 后端开发",
-      "基础考点"
+      "内存泄漏",
+      "性能排查"
     ],
-    "difficulty": "medium",
-    "chapter": "course-3",
+    "difficulty": "hard",
+    "chapter": "mod-node-express-c-3",
     "knowledge_points": [],
     "estimated_time": 5
   }
